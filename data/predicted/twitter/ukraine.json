@@ -1,0 +1,1146 @@
+[
+  {
+    "text": "Republicans renounce Nick Fuentes, the anti semitic white nationalist yet? The one praised by Rep. Paul Gosar? The racist whose conference Marjorie Taylor Greene spoke at? The dude who applauded for Putin as he invaded Ukraine?",
+    "created_at": "11/26/2022 22:31:35",
+    "retweet_count": 17,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.7466641068458557,
+      "LABEL_1": 0.243838369846344,
+      "LABEL_2": 0.009497513063251972
+    }
+  },
+  {
+    "text": "Watching a Leonardo DiCaprio movie on the front #Ukraine is winning https://t.co/sphaOJclht",
+    "created_at": "11/26/2022 22:22:11",
+    "retweet_count": 2,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.8726298213005066,
+      "LABEL_1": 0.12331870198249817,
+      "LABEL_0": 0.004051479510962963
+    }
+  },
+  {
+    "text": "After two weeks of blackout #Kherson (southern #Ukraine) is with electricity again! The Russian terrorist army blew up the energy system while retreating. But Ukrainians fixed everything despite the Russian shelling. https://t.co/o09GXpQSr2",
+    "created_at": "11/26/2022 22:41:10",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.7440409064292908,
+      "LABEL_1": 0.22183437645435333,
+      "LABEL_2": 0.03412466496229172
+    }
+  },
+  {
+    "text": "We\u2019re spending twice as much in Ukraine than we ever did with our troops on the ground in Afghanistan. That\u2019s messed up!",
+    "created_at": "11/26/2022 01:41:25",
+    "retweet_count": 1489,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.9131731986999512,
+      "LABEL_1": 0.07892034202814102,
+      "LABEL_2": 0.007906567305326462
+    }
+  },
+  {
+    "text": "Ukraine defenders today (source: UA telegram) https://t.co/DDYvYpOTBs",
+    "created_at": "11/26/2022 22:41:10",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.912341833114624,
+      "LABEL_0": 0.05729738250374794,
+      "LABEL_2": 0.030360832810401917
+    }
+  },
+  {
+    "text": "Belgium is one of the first countries to contribute to President @ZelenskyyUa\u2019s initiative #GrainfromUkraine.\n\nWe are supporting Ukraine to take Ukrainian grain to world markets, especially to countries with severe food insecurity. https://t.co/3eYwC51yfu",
+    "created_at": "11/26/2022 13:09:50",
+    "retweet_count": 436,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.816236138343811,
+      "LABEL_1": 0.17891617119312286,
+      "LABEL_0": 0.004847686737775803
+    }
+  },
+  {
+    "text": "We all know that Zelya was the president of Ukraine on screen  before he became an actual president (mostly on screen as well).  This is from the \"Servant of the people\" series.\n\nApparently, they also predicted the SMO. https://t.co/iKULgKeRIL",
+    "created_at": "11/26/2022 17:37:02",
+    "retweet_count": 7,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.6323627233505249,
+      "LABEL_0": 0.27337270975112915,
+      "LABEL_2": 0.09426458179950714
+    }
+  },
+  {
+    "text": "On Nov. 26, amid Russia's war, Ukraine commemorated the victims of another tragedy: Holodomor, a man-made famine that killed millions of Ukrainians in 1932-1933. https://t.co/31q1QWZYdb",
+    "created_at": "11/26/2022 22:34:25",
+    "retweet_count": 96,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.7808945178985596,
+      "LABEL_1": 0.206152081489563,
+      "LABEL_2": 0.012953384779393673
+    }
+  },
+  {
+    "text": "Hunger cannot be a weapon of war, I emphasized at the 1st #GrainFromUkraine summit - an initiative of President @ZelenskyyUa. \nYet millions of people around the world suffer severely from #Russia\u2019s aggression against #Ukraine that deepens global food insecurity &amp; hunger. \nMore: https://t.co/2a7dtdJLRO",
+    "created_at": "11/26/2022 15:53:15",
+    "retweet_count": 115,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.8652220368385315,
+      "LABEL_1": 0.12492343038320541,
+      "LABEL_2": 0.009854502975940704
+    }
+  },
+  {
+    "text": "Holodomor was imposed on Ukrainians, primarily Ukrainian villagers, by the Moscow-based Soviet authorities led by dictator Joseph Stalin. Ukraine has been fighting to get Holodomor recognized globally as an act of genocide against Ukrainians.",
+    "created_at": "11/26/2022 22:34:27",
+    "retweet_count": 12,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.8394816517829895,
+      "LABEL_1": 0.15484488010406494,
+      "LABEL_2": 0.005673411767929792
+    }
+  },
+  {
+    "text": "I am, to put it lightly, tired. The full scale invasion has been ongoing for 9 months. It is Holodomor Memorial Day. My friends and family in Ukraine are living under bombs and power outages. And still people find the time to spread lies and hatred about Ukrainians",
+    "created_at": "11/26/2022 09:01:39",
+    "retweet_count": 268,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.9697040319442749,
+      "LABEL_1": 0.028578877449035645,
+      "LABEL_2": 0.0017171325162053108
+    }
+  },
+  {
+    "text": "@jmontforttx Americans want to stop mass shootings? Then stop funding Ukraine's illegal arms-trafficking.",
+    "created_at": "11/26/2022 22:41:08",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5897533297538757,
+      "LABEL_2": 0.24701590836048126,
+      "LABEL_0": 0.16323073208332062
+    }
+  },
+  {
+    "text": "Germany says it must consult with NATO about sending Patriot batteries to defend Ukraine airspace.\n\nNATO chief says, no, there's no need to consult, Germany is perfectly free to send the Patriots if it wishes. \n\nApparently, Germany doesn't wish it. https://t.co/0mF7lVPaqr",
+    "created_at": "11/25/2022 16:18:26",
+    "retweet_count": 625,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5120648741722107,
+      "LABEL_0": 0.42978939414024353,
+      "LABEL_2": 0.05814573913812637
+    }
+  },
+  {
+    "text": "90 years after the Holodomor, the Kremlin is again using food as a weapon.\n \nWe stand with Ukraine to guarantee global food security.\n\nUnder President @ZelenskyyUa's Grain from Ukraine initiative, the @EU_Commission will pay to ship 40,000 tons of Ukrainian grain via two boats. https://t.co/YGMxiIVRND",
+    "created_at": "11/26/2022 15:03:58",
+    "retweet_count": 1299,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.4848870038986206,
+      "LABEL_0": 0.4641456604003906,
+      "LABEL_2": 0.05096736177802086
+    }
+  },
+  {
+    "text": "The Ukraine conflict started with a US Govt funded coup d'etat in which the CIA partnered with far-right militias to kill Maidan protesters with their own snipers. Then they blamed the former President for the killings. The shocking evidence in the thread below speaks for itself. https://t.co/p0SoiBlt3b",
+    "created_at": "11/26/2022 22:08:58",
+    "retweet_count": 287,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.9029845595359802,
+      "LABEL_1": 0.09325790405273438,
+      "LABEL_2": 0.003757548052817583
+    }
+  },
+  {
+    "text": "Svatov-Kreminna Battles continue in the Svatov direction in several areas of the Armed Forces of Ukraine repelled another Orc counterattack in the direction of Makiivka and Terni. Fierce battles take place on this front every day.",
+    "created_at": "11/26/2022 22:41:08",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.6657417416572571,
+      "LABEL_0": 0.27643170952796936,
+      "LABEL_2": 0.05782656371593475
+    }
+  },
+  {
+    "text": "My family member is being called to war in Ukraine. If anyone knows anything about good military equipment like tactical helmets, winter gloves, other winter equipment, and bulletproof vests\n\nPlease DM me, Thank You\nI would appreciate your help \ud83c\uddfa\ud83c\udde6",
+    "created_at": "11/26/2022 18:28:12",
+    "retweet_count": 274,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.5683781504631042,
+      "LABEL_1": 0.4048703908920288,
+      "LABEL_0": 0.026751480996608734
+    }
+  },
+  {
+    "text": "@Semiogogue Aye I kinda feel like I missed a train. What is everybody sperging about? Are we back to the Fuentes topic? Or is it pagan v Christians? What\u2019s next on the rotation? At least we are off Ukraine for a bit\u2026",
+    "created_at": "11/26/2022 22:41:07",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5897533297538757,
+      "LABEL_2": 0.24701590836048126,
+      "LABEL_0": 0.16323073208332062
+    }
+  },
+  {
+    "text": "\u203c\ufe0f The European Parliament offers Ukraine to rent the latest weapons from the West.  At the same time, the EU can provide funds for rent.  This idea was voiced by the head of the committee on foreign affairs of the European Parliament, David McAllister.\n\n\ud83d\udc81\u200d\u2642\ufe0f\ud83d\udc81\u200d\u2642\ufe0f\ud83d\udc81\u200d\u2642\ufe0f\ud83d\udc81\u200d\u2642\ufe0f\ud83d\udc81\u200d\u2642\ufe0f\ud83d\udc81\u200d\u2642\ufe0f\ud83d\udc81\u200d\u2642\ufe0f\ud83d\udc81\u200d\u2642\ufe0f\ud83d\udc81\u200d\u2642\ufe0f\ud83d\udc81\u200d\u2642\ufe0f\ud83d\udc81\u200d\u2642\ufe0f\ud83d\udc81\u200d\u2642\ufe0f",
+    "created_at": "11/26/2022 21:33:16",
+    "retweet_count": 33,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.7638766765594482,
+      "LABEL_0": 0.14270737767219543,
+      "LABEL_2": 0.0934159904718399
+    }
+  },
+  {
+    "text": "Kyiv opens Grain from Ukraine scheme to get food to Africa\u2019s poorest countries https://t.co/cTIkhzUjEG",
+    "created_at": "11/26/2022 08:04:02",
+    "retweet_count": 29,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.864138662815094,
+      "LABEL_2": 0.07745567709207535,
+      "LABEL_0": 0.05840567499399185
+    }
+  },
+  {
+    "text": "okay but the last time russia was led by a woman they took over crimea and eastern ukraine https://t.co/w2btds3FYf",
+    "created_at": "11/26/2022 22:00:02",
+    "retweet_count": 23,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.5437562465667725,
+      "LABEL_1": 0.4373070299625397,
+      "LABEL_2": 0.01893671415746212
+    }
+  },
+  {
+    "text": "@RT_com's account has been withheld in Portugal, Finland, Sweden, Ireland, Slovenia, Czech Republic, Poland, Slovakia, Hungary, Italy, Malta, Germany, Greece, Romania, Netherlands, Bulgaria, Austria, Luxembourg, Latvia, United Kingdom, Denmark, Lithuania, Croatia, Estonia, Cyprus, France, Spain, Belgium in response to a legal demand. Learn more.",
+    "created_at": "11/26/2022 17:30:00",
+    "retweet_count": 20,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5897533297538757,
+      "LABEL_2": 0.24701590836048126,
+      "LABEL_0": 0.16323073208332062
+    }
+  },
+  {
+    "text": "Did you know that Mitch McConnell\u2019s PAC received $1M from FTX just days before they filed for bankruptcy?\n\nMitch McConnell was also one of the US politicians that went to Ukraine for a photo op.",
+    "created_at": "11/26/2022 19:34:14",
+    "retweet_count": 1544,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.719213604927063,
+      "LABEL_0": 0.23065106570720673,
+      "LABEL_2": 0.05013536661863327
+    }
+  },
+  {
+    "text": "@OldSchoolSciFi @ksorbs These guys checked the actual crypto records. FAKE. UKR govt bought no crypto. https://t.co/2HgBgWc1TF",
+    "created_at": "11/26/2022 22:41:06",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5897533297538757,
+      "LABEL_2": 0.24701590836048126,
+      "LABEL_0": 0.16323073208332062
+    }
+  },
+  {
+    "text": "@SAGordon @ConceptualJames @MarkDavis Clearly you're not one who worries about truths. You have a Ukraine flag in your name. Credibility instantly gone. Nothing but a propaganda puppet. Take a seat",
+    "created_at": "11/26/2022 22:41:06",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5897533297538757,
+      "LABEL_2": 0.24701590836048126,
+      "LABEL_0": 0.16323073208332062
+    }
+  },
+  {
+    "text": "@Yorkiedoglover1 @Fhysician @POTUS The corrupt crook is the head of a criminal family enterprise. Biden sold the Vice Presidency through Hunter to Russia, China, and the Ukraine.",
+    "created_at": "11/26/2022 22:41:05",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5897533297538757,
+      "LABEL_2": 0.24701590836048126,
+      "LABEL_0": 0.16323073208332062
+    }
+  },
+  {
+    "text": "@aegean2356 \u27573\ufe0f\u20e3 DAYS LEFT\u2757\n\n\ud83d\udce3\u2757\u2757\u2757New Listing\u2757\u2757\u2757\nNFT COLLECTION FROM UKRAINE \ud83c\uddfa\ud83c\udde6\u2728 ART OF MAGNETIC \u2728 KEMER \n\n\ud83d\udcb0MIN BID: 0.01$ETH\n10/10 PCS\nPOLYGON\n\n\u27a1\ufe0f https://t.co/Q0YDBtAGmr\n\n\ud83d\udca5All collections \u27a1\ufe0fhttps://t.co/iNRGcYoZuU\n\n#NFTs #helpasha #artofmagnetic #opensea #kemer https://t.co/4Q5CARqNNV",
+    "created_at": "11/26/2022 22:41:05",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.8439493775367737,
+      "LABEL_2": 0.1272631287574768,
+      "LABEL_0": 0.028787439689040184
+    }
+  },
+  {
+    "text": "Serhiy was only 2 days old when the Russians killed him. A missile hit the maternity ward in Vilnyansk #Ukraine on Nov, 23. Instead of a cradle, today he lies in a coffin.\n\n\ud83d\udcf7Heidi Levine https://t.co/sOXhhwr0hM",
+    "created_at": "11/26/2022 19:56:14",
+    "retweet_count": 192,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.8970939517021179,
+      "LABEL_1": 0.09811939299106598,
+      "LABEL_2": 0.004786602221429348
+    }
+  },
+  {
+    "text": "Starlink has been told by some governments (not Ukraine) to block Russian news sources. We will not do so unless at gunpoint.",
+    "created_at": "11/26/2022 22:41:04",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5091575980186462,
+      "LABEL_0": 0.47422969341278076,
+      "LABEL_2": 0.01661273092031479
+    }
+  },
+  {
+    "text": "Today is Holodomor Memorial Day.\n\nProbably, most Ukrainians (with the exception of Western Ukraine, which was not part of the USSR then) have a family story about the Holodomor. Me too, but a little non-conventional. \ud83e\uddf5 https://t.co/RQYBVed5wC",
+    "created_at": "11/26/2022 07:29:39",
+    "retweet_count": 1596,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.7090665698051453,
+      "LABEL_0": 0.18758071959018707,
+      "LABEL_2": 0.10335275530815125
+    }
+  },
+  {
+    "text": "The West demands that #Russia stop strikes on #Ukraine's #energy infrastructure, but in 1999, during the #NATO operation against #Yugoslavia, the alliance's forces themselves bombed such facilities with the support of the \"world community\"\n\n#USA #EU #Europe https://t.co/UtsvQ00IX6",
+    "created_at": "11/26/2022 12:09:06",
+    "retweet_count": 4,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.7029611468315125,
+      "LABEL_1": 0.28432953357696533,
+      "LABEL_2": 0.012709390372037888
+    }
+  },
+  {
+    "text": "90 years after the Holodomor, our thoughts are with Ukraine as it mourns and remembers, on this day when we came together to fight hunger around the world with President @ZelenskyyUa\u2019s #GrainfromUkraine initiative. https://t.co/jydMzAkvAg",
+    "created_at": "11/26/2022 17:37:23",
+    "retweet_count": 361,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.659593403339386,
+      "LABEL_0": 0.18202225863933563,
+      "LABEL_2": 0.15838433802127838
+    }
+  },
+  {
+    "text": "@BorisJohnson @circlehealthgrp stop grifting , explain tie the world BORIS why did you stop a peace deal between russian and Ukraine why back in March , you have allowed war on Europe from the USA and Nato",
+    "created_at": "11/26/2022 22:41:04",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5897533297538757,
+      "LABEL_2": 0.24701590836048126,
+      "LABEL_0": 0.16323073208332062
+    }
+  },
+  {
+    "text": "So FTX, the crypto company that was caught laundering money in ukraine, has connections with Katie Hobbs in Arizona, yet the media is silent.",
+    "created_at": "11/26/2022 18:58:21",
+    "retweet_count": 8251,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.5091214776039124,
+      "LABEL_1": 0.4764459431171417,
+      "LABEL_2": 0.014432543888688087
+    }
+  },
+  {
+    "text": "Truth about #Holodomor -\n\n1.) Affected several regions of the Soviet Union\n\n2.) Ukraine was not the worst affected\n\n3.) Kazakhstan lost the most in terms of lives\n\n4.) Ukrainian nationalists openly sabotaged Soviet efforts to fix the problems, particularly in Ukraine https://t.co/4KTENucy7R",
+    "created_at": "11/26/2022 16:00:39",
+    "retweet_count": 54,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.6436410546302795,
+      "LABEL_1": 0.3345426917076111,
+      "LABEL_2": 0.021816300228238106
+    }
+  },
+  {
+    "text": "Media reports claim that the Kremlin is allegedly plotting to liquidate Lukashenka, the de facto ruler of #Belarus in order to seize control of Belarusian army to use it in #Russia's invasion of #Ukraine:\n\nhttps://t.co/UxPjDCLlOL",
+    "created_at": "11/26/2022 11:16:13",
+    "retweet_count": 820,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.520167887210846,
+      "LABEL_0": 0.46457192301750183,
+      "LABEL_2": 0.015260177664458752
+    }
+  },
+  {
+    "text": "IMHO, @JoeBiden\u2019s biggest missteps to date (biggest, not all):\n\nCanceling Keystone on day 1.\nStopping Trump\u2019s border policies.\nThe debacle in Afghanistan.\nHis son (Ukraine and China)\nHe fondles a lot of kids.",
+    "created_at": "11/26/2022 03:42:38",
+    "retweet_count": 214,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.6801540851593018,
+      "LABEL_1": 0.28376340866088867,
+      "LABEL_2": 0.036082442849874496
+    }
+  },
+  {
+    "text": "Meat grinder + destroyed russian BMP. Scenes as if from World War II... current reality in Ukraine.\nWarning: dead soldiers\nMaybe another piece for @Rebel44CZ https://t.co/5aHnL4wQGM",
+    "created_at": "11/26/2022 20:17:20",
+    "retweet_count": 101,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.6933670043945312,
+      "LABEL_1": 0.2816879153251648,
+      "LABEL_2": 0.024944983422756195
+    }
+  },
+  {
+    "text": "I bet you are for sending Billions more to Ukraine to fight a proxy war with Russia instead of helping #AmericaFirst huh? https://t.co/rfb8ePHVqh",
+    "created_at": "11/26/2022 22:41:02",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.6302632689476013,
+      "LABEL_1": 0.34013113379478455,
+      "LABEL_2": 0.02960558421909809
+    }
+  },
+  {
+    "text": "@DefenceU Please sign this petition to hold all our world leaders accountable to do more to end this illegal inhumane genocidal war against humanity in Ukraine \ud83c\uddfa\ud83c\udde6 \ud83d\ude4f\ud83c\udffb\ud83d\udc9b\ud83d\udc99\ud83d\udc9b\n\nhttps://t.co/K39fG9wnTB",
+    "created_at": "11/26/2022 07:33:47",
+    "retweet_count": 10,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.7873497605323792,
+      "LABEL_0": 0.1350717544555664,
+      "LABEL_2": 0.07757841795682907
+    }
+  },
+  {
+    "text": "Finally, I will add that I also do not like the coverage of this topic in modern Ukraine, in particular, the tendency to exaggerate the number of victims and many other things. But that's a topic for another conversation. /end",
+    "created_at": "11/26/2022 07:30:05",
+    "retweet_count": 32,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.929559588432312,
+      "LABEL_1": 0.06681730598211288,
+      "LABEL_2": 0.0036230843979865313
+    }
+  },
+  {
+    "text": "@StephenKing But ukraine is filled with beta bic#es like you stephan queen.",
+    "created_at": "11/26/2022 22:41:01",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5897533297538757,
+      "LABEL_2": 0.24701590836048126,
+      "LABEL_0": 0.16323073208332062
+    }
+  },
+  {
+    "text": "\"Ukraine has gone through one genocide,\" President Volodymyr Zelensky said in his address on Nov. 26.",
+    "created_at": "11/26/2022 22:34:27",
+    "retweet_count": 25,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.5026980638504028,
+      "LABEL_1": 0.47378626465797424,
+      "LABEL_2": 0.02351558953523636
+    }
+  },
+  {
+    "text": "#world #Ukraine #Russia  #UK #NATO RETWEET FOR AWARENESS OF THE  USA ARE CAUSING PROBLEMS WITH  RUSSIA \ud83c\uddf7\ud83c\uddfa \n #IranRevolution2022\nhttps://t.co/Q9zjqffjCR",
+    "created_at": "11/26/2022 22:41:00",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.5126229524612427,
+      "LABEL_1": 0.4601791203022003,
+      "LABEL_2": 0.027197936549782753
+    }
+  },
+  {
+    "text": "\"The short life of baby Serhii, killed in a Ukraine maternity ward.\" Absolutely devastating... russia is a terrorist\nhttps://t.co/xylU0157IE https://t.co/TnO9wnDRXV",
+    "created_at": "11/26/2022 15:46:51",
+    "retweet_count": 894,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.9666827321052551,
+      "LABEL_1": 0.030927017331123352,
+      "LABEL_2": 0.0023902214597910643
+    }
+  },
+  {
+    "text": "Soldiers of the Armed Forces of Ukraine inspect a Russian tank, which collapsed from a bridge. https://t.co/oqFXLWeFlv",
+    "created_at": "11/26/2022 20:11:11",
+    "retweet_count": 28,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5653479099273682,
+      "LABEL_0": 0.4106205999851227,
+      "LABEL_2": 0.024031493812799454
+    }
+  },
+  {
+    "text": "LIVE UPDATES: UK to Send 125 More Air Defense Systems to Ukraine, PM Sunak Says\n\nhttps://t.co/6Gl2Oja236",
+    "created_at": "11/26/2022 22:40:59",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.9156777262687683,
+      "LABEL_0": 0.05151723697781563,
+      "LABEL_2": 0.03280509635806084
+    }
+  },
+  {
+    "text": "The anti-satanist, anti-LGBT jihad of the Russian Orthodox Church continues in Ukraine with a Moscow Church priest found in bed with a choir boy. https://t.co/ejQc7IwaJA",
+    "created_at": "11/25/2022 15:55:29",
+    "retweet_count": 216,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.8537423014640808,
+      "LABEL_1": 0.142306849360466,
+      "LABEL_2": 0.003950916230678558
+    }
+  },
+  {
+    "text": "\u26a1\ufe0f Belgium signs declaration supporting Ukraine\u2019s move towards EU, NATO membership. \n\nBelgian Prime Minister Alexander De Croo and President Volodymyr Zelensky signed a joint declaration on Nov. 26 in support of Ukraine\u2019s move toward EU and NATO membership.",
+    "created_at": "11/26/2022 22:13:58",
+    "retweet_count": 157,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.5400174260139465,
+      "LABEL_1": 0.45650532841682434,
+      "LABEL_0": 0.003477255115285516
+    }
+  },
+  {
+    "text": "The only way to end the war, to end this misery, is to give Ukraine everything it needs to win now. ATACMs, armed drones, F-16s. Why drag it out when Putin is escalating all the time, slaughtering civilians? You cannot escalate in self-defense. Glory to Ukraine. 7/7",
+    "created_at": "11/26/2022 18:23:17",
+    "retweet_count": 464,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.7937947511672974,
+      "LABEL_1": 0.18163737654685974,
+      "LABEL_2": 0.02456791140139103
+    }
+  },
+  {
+    "text": "Tucker Carlson and L. Todd Wood question why Democrats have fought against an audit of the tens of billions of dollars the US has sent to Ukraine. https://t.co/c08s2pfZmZ",
+    "created_at": "11/26/2022 01:52:11",
+    "retweet_count": 690,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.534390389919281,
+      "LABEL_1": 0.451750785112381,
+      "LABEL_2": 0.013858778402209282
+    }
+  },
+  {
+    "text": "England aren't playing badly. This game is simply the result of global factors, not least the effects of the pandemic and Putin's illegal war in Ukraine.",
+    "created_at": "11/25/2022 20:42:43",
+    "retweet_count": 4936,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.5515233874320984,
+      "LABEL_1": 0.4002836346626282,
+      "LABEL_2": 0.048192985355854034
+    }
+  },
+  {
+    "text": "Odesa Philharmonic Orchestra is rehearsing Brahms Symphony no. 4 in the darkness. \nThis is resistance as well. Under the missile attacks, without electricity, without heat, Ukrainian musicians continue playing. Violence can\u2019t and won\u2019t break Ukraine\u2019s spirit.\n\ud83d\udcf9-Pavlo Gintov / FB https://t.co/us2fVWBgsb",
+    "created_at": "11/25/2022 21:27:54",
+    "retweet_count": 2040,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5079892873764038,
+      "LABEL_0": 0.4384979009628296,
+      "LABEL_2": 0.05351284518837929
+    }
+  },
+  {
+    "text": "Ukraine\nUk rain",
+    "created_at": "11/26/2022 22:40:58",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.8535763025283813,
+      "LABEL_0": 0.07860936969518661,
+      "LABEL_2": 0.06781426072120667
+    }
+  },
+  {
+    "text": "@Erfanmusic #ToomajSalehi, Iranian rapper, is in grave danger as the Islamic Republic is trying to push for life threatening accusations which usually result in execution.\nBe Toomaj's voice.\nHe was even the voice of Ukraine, as he knew we share the struggle.\n\n#MahsaAmini \n#\u0627\u0639\u062a\u0635\u0627\u0628\u0627\u062a_\u0633\u0631\u0627\u0633\u0631\u06cc",
+    "created_at": "11/26/2022 22:40:58",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.7445906400680542,
+      "LABEL_2": 0.2010774314403534,
+      "LABEL_0": 0.05433189496397972
+    }
+  },
+  {
+    "text": "Hungary \ud83c\udded\ud83c\uddfahas been supporting Ukraine \ud83c\uddfa\ud83c\udde6 on bilateral level. Today I announced in #Kyiv that we financially support the #GrainFromUkraine initiative, because we #Hungarians have a strong affiliation to life and survival, know perfectly the importance of being in #solidarity. https://t.co/7ZjTJl2yiB",
+    "created_at": "11/26/2022 16:10:36",
+    "retweet_count": 69,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.8984206914901733,
+      "LABEL_1": 0.09964565187692642,
+      "LABEL_0": 0.0019336867844685912
+    }
+  },
+  {
+    "text": "Today, \ud83c\uddfa\ud83c\udde6Ukraine remembers the millions of victims of Holodomor - a man-made famine, \"classic Soviet genocide\" according to the very inventor of the term \"genocide\", R. Lemkin.\n\nI recommend reading \"Red Famine\" by @anneapplebaum to learn more about it. It'll help understand 2022.",
+    "created_at": "11/26/2022 17:52:40",
+    "retweet_count": 48,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.6654127836227417,
+      "LABEL_1": 0.3014582097530365,
+      "LABEL_2": 0.03312898427248001
+    }
+  },
+  {
+    "text": "As we reflect on the horrors of the Holodomor and the innocent lives lost 90 years ago, we recommit ourselves to accountability for atrocities committed in Ukraine and to the constant work of preventing and refusing to accept such horrors now or in the future. https://t.co/M7yM8E3ysb",
+    "created_at": "11/26/2022 07:23:46",
+    "retweet_count": 1421,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.8089824914932251,
+      "LABEL_1": 0.17943477630615234,
+      "LABEL_2": 0.011582685634493828
+    }
+  },
+  {
+    "text": "Who were the handpicked mothers whom Putin agreed to meet with about their sons sent to Ukraine? One was an ultra-conservative \u201cradically pro-government\u201d woman \"who recently travelled to the Donbas region to direct a pro-war film featuring Russian troops.\" https://t.co/7UKCegPv8v",
+    "created_at": "11/26/2022 07:30:34",
+    "retweet_count": 33,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.608365535736084,
+      "LABEL_0": 0.36222273111343384,
+      "LABEL_2": 0.02941172569990158
+    }
+  },
+  {
+    "text": "Top European officials are furious with Joe Biden\u2019s administration and now accuse the Americans of making a fortune from the war, while EU industry suffers. \n\nhttps://t.co/XV3qmCoSYp",
+    "created_at": "11/25/2022 08:37:01",
+    "retweet_count": 641,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.820896565914154,
+      "LABEL_1": 0.16595883667469025,
+      "LABEL_2": 0.013144687749445438
+    }
+  },
+  {
+    "text": "BBC reporting on Ukrainian Nazis  (2014)\n\nWhen asked what future they want for Ukraine they say \" a clean nation\" for one people and say they hate jews and Russians. https://t.co/jZxfWKHzIU",
+    "created_at": "11/24/2022 17:08:32",
+    "retweet_count": 4656,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.7455863952636719,
+      "LABEL_1": 0.23816902935504913,
+      "LABEL_2": 0.016244586557149887
+    }
+  },
+  {
+    "text": "90 years ago, millions of Ukrainians starved to death in the Holodomor famine deliberately caused by Soviet policies. The Kremlin now wages a brutal war to subjugate Ukraine\u2019s people, but will not prevail. We will stand with Ukraine. Slava Ukraini! https://t.co/6JMcpzsor1",
+    "created_at": "11/25/2022 23:03:31",
+    "retweet_count": 2850,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.90351402759552,
+      "LABEL_1": 0.09078466147184372,
+      "LABEL_2": 0.0057013314217329025
+    }
+  },
+  {
+    "text": "@WhiteBoyWyatt98 @MetinErenbay @seleniumnxp @nexta_tv Ukraine \u2014&gt; \ud83d\udcb0\ud83d\udcb0\ud83d\udcb0\ud83d\udcb0\ud83d\udcb0",
+    "created_at": "11/26/2022 22:40:56",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5897533297538757,
+      "LABEL_2": 0.24701590836048126,
+      "LABEL_0": 0.16323073208332062
+    }
+  },
+  {
+    "text": "Read in detail about russian war crimes against Ukraine in my book - given here entirely for free. \n\nSee pages 198 to 211.\n\nThis is a gdrive link - you can download the book and keep it. If you like it, please donate to the Ukr charity of your choice!\nhttps://t.co/nnpgVfPbs7\n4/4",
+    "created_at": "11/25/2022 09:03:18",
+    "retweet_count": 210,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5283503532409668,
+      "LABEL_2": 0.35345548391342163,
+      "LABEL_0": 0.11819420009851456
+    }
+  },
+  {
+    "text": "It\u2019s warmer outside then in the apartments of Kherson residents. People store food on balconies and cook on gas burners. Neighbors help each other sharing what\u2019s left. While Russia is trying to freeze Ukraine into submission, Ukrainians show incredible ingenuity. https://t.co/8vRYW6J9da",
+    "created_at": "11/26/2022 20:49:22",
+    "retweet_count": 73,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.6884863376617432,
+      "LABEL_1": 0.2817142903804779,
+      "LABEL_0": 0.029799334704875946
+    }
+  },
+  {
+    "text": "If a woman was in charge of Russia instead of the testosterone-fueled current leader, the war in Ukraine would be over by New Years Day and we could all breathe a little easier.",
+    "created_at": "11/26/2022 16:41:43",
+    "retweet_count": 1242,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.4556284248828888,
+      "LABEL_0": 0.3613720238208771,
+      "LABEL_2": 0.1829995959997177
+    }
+  },
+  {
+    "text": "Oh my god, just fucking give Ukraine the Patriot already. \nWhat sort of a divine sign from high above are you even waiting for after 9 months of Russia\u2019s war? \nIn what order should planets and stars parade so that a political decision could be made? \nHow many more\u2026",
+    "created_at": "11/25/2022 15:00:12",
+    "retweet_count": 4286,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.8867897391319275,
+      "LABEL_1": 0.10290267318487167,
+      "LABEL_2": 0.010307552292943
+    }
+  },
+  {
+    "text": "@RS_28_Sarmat @wutaufwutburger @TpyxaNews The Finnish Red Cross sends 100's of transformers to Ukraine. https://t.co/texc8YKken",
+    "created_at": "11/26/2022 22:40:56",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5897533297538757,
+      "LABEL_2": 0.24701590836048126,
+      "LABEL_0": 0.16323073208332062
+    }
+  },
+  {
+    "text": "@AZgeopolitics @dana916 hungry russians looting a gas station in #Ukraine #RussiaIsATerroristState https://t.co/oBPNqKJ6ij",
+    "created_at": "11/26/2022 22:40:55",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5897533297538757,
+      "LABEL_2": 0.24701590836048126,
+      "LABEL_0": 0.16323073208332062
+    }
+  },
+  {
+    "text": "\ud83d\udd34 European Officials Accuse US of Profiting Off Ukraine War Through Biden Legislation\n\nhttps://t.co/beHVrUXDi6",
+    "created_at": "11/26/2022 21:07:32",
+    "retweet_count": 33,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.523522138595581,
+      "LABEL_1": 0.45724228024482727,
+      "LABEL_2": 0.01923563703894615
+    }
+  },
+  {
+    "text": "Wagner PMC special units taking huge losses and regrets redeployments in #Bakhmut \n\nWelcome to Ukraine\ud83d\udc4a\ud83c\udffb\ud83c\uddfa\ud83c\udde6",
+    "created_at": "11/26/2022 18:05:40",
+    "retweet_count": 241,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5140886306762695,
+      "LABEL_0": 0.3461219370365143,
+      "LABEL_2": 0.1397894322872162
+    }
+  },
+  {
+    "text": "#Tokyo #Concert on 1st December. It'a great honor  to perform for a special Peace Concert at the Tokyo Metropolitan Theater. In the midst of the Ukraine situation and the rapidly changing world situation, I will deliver a msg of peace through music! @panchangogo\n @unescokr https://t.co/bNZDdQT3kQ",
+    "created_at": "11/25/2022 12:08:41",
+    "retweet_count": 636,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.961525022983551,
+      "LABEL_1": 0.03759949654340744,
+      "LABEL_0": 0.0008754688315093517
+    }
+  },
+  {
+    "text": "\ud83d\udc94\ud83d\udce2\nClaire Nevill, a spokesperson for\n@WFP_Ethiopia, said #TigrayFamine is extremely worrying and likely to worsen as the\u00a0UN faces a funding squeeze, partly as a result of the war in Ukraine. \n@WhiteHouse @EUCouncil\n#AllowHumanitarianAidToTigray @awot12k https://t.co/tGjAC5Zw0j",
+    "created_at": "11/26/2022 07:34:10",
+    "retweet_count": 17,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.7397574782371521,
+      "LABEL_0": 0.21534569561481476,
+      "LABEL_2": 0.04489676654338837
+    }
+  },
+  {
+    "text": "Meeting with President Zelensky in #Kyiv. We stand with the Ukrainian people. Just before winter begins, Belgium is supporting them by providing extra military equipment and humanitarian aid. \ud83c\udde7\ud83c\uddea\ud83c\uddfa\ud83c\udde6 @alexanderdecroo #Ukraine https://t.co/t5Sj5nPKsr",
+    "created_at": "11/26/2022 12:01:35",
+    "retweet_count": 170,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.6493123769760132,
+      "LABEL_1": 0.3379330635070801,
+      "LABEL_0": 0.012754525989294052
+    }
+  },
+  {
+    "text": "Indeed https://t.co/wR0qpw7h1U",
+    "created_at": "11/26/2022 22:10:09",
+    "retweet_count": 121,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.6314449310302734,
+      "LABEL_2": 0.2983637750148773,
+      "LABEL_0": 0.07019133120775223
+    }
+  },
+  {
+    "text": "Azerbaijan will help Ukraine with the supply of equipment for the restoration of power grids, - Ministry of Energy of Azerbaijan https://t.co/zdj1ZPfCpE",
+    "created_at": "11/26/2022 16:23:37",
+    "retweet_count": 285,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.608564019203186,
+      "LABEL_2": 0.3838067948818207,
+      "LABEL_0": 0.007629201281815767
+    }
+  },
+  {
+    "text": "Thank you, president @ZelenskyyUa.\n\nI cherish every opportunity to visit Ukraine &amp; each time I have to leave, seems like part of me stays here with my \ud83c\uddfa\ud83c\udde6 friends. In a way, now it does. https://t.co/InwkxK829N",
+    "created_at": "11/26/2022 16:18:39",
+    "retweet_count": 761,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.9673098921775818,
+      "LABEL_1": 0.029552849009633064,
+      "LABEL_0": 0.00313725508749485
+    }
+  },
+  {
+    "text": "I\u2019m dead. So one of the fake mothers at Putin\u2019s fake staged meet showed a picture of her \u2018son\u2019 who died in Ukraine. Except the guy in the picture died in 2019. Everything is a Kremlin staged circus freak show https://t.co/zGrXjmAdOE",
+    "created_at": "11/26/2022 06:45:37",
+    "retweet_count": 1606,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.9371681213378906,
+      "LABEL_1": 0.058450039476156235,
+      "LABEL_2": 0.004381862469017506
+    }
+  },
+  {
+    "text": "#276dayofwar\n\n\u26a1President of #Ukraine Volodymyr Zelenskyy, First Lady together with Prime Ministers of #Belgium, #Lithuania honor memory of victims of famine in Ukraine\u26a1\n\n#UkraineWar #StandWithUkraine #UkraineRussiaWar #RussiaIsATerroristState #russiaisaterrorisstate https://t.co/MhTi9d2kgI",
+    "created_at": "11/26/2022 21:24:27",
+    "retweet_count": 5,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.6938171982765198,
+      "LABEL_2": 0.17602717876434326,
+      "LABEL_0": 0.1301555335521698
+    }
+  },
+  {
+    "text": "@SparksN123 Anyone who speaks out against NATO and Ukraine is either an indoctrinated pro-Russian agent or a complete .... \nhttps://t.co/A2Q8gVJZG3 https://t.co/0CuoW3Pkns",
+    "created_at": "11/26/2022 22:40:51",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.6175594925880432,
+      "LABEL_2": 0.21209299564361572,
+      "LABEL_0": 0.17034749686717987
+    }
+  },
+  {
+    "text": "Those who do not know their history are forced to repeat it. Today is the Memorial Day of the Holodomor victims. This is an artificial famine organized by soviet power in Ukraine in 1932-1933. They took away grain and everything that could be eaten from the people\u2019s homes 1/3 https://t.co/320F29L8YZ",
+    "created_at": "11/26/2022 15:51:24",
+    "retweet_count": 593,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.894012451171875,
+      "LABEL_1": 0.09990428388118744,
+      "LABEL_2": 0.006083305459469557
+    }
+  },
+  {
+    "text": "\u26a1\ufe0f Ukraine symbolically launches \u2018Grain from Ukraine\u2019 program on Holodomor memorial day.\n\nWithin the scheme, up to 60 grain ships would be sent to Africa's poorest countries in the first half of 2023.\n\nThe Holodomor artificial famine killed millions of Ukrainians in 1932-1933.",
+    "created_at": "11/26/2022 13:08:16",
+    "retweet_count": 545,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.654657781124115,
+      "LABEL_1": 0.3197174668312073,
+      "LABEL_2": 0.02562480792403221
+    }
+  },
+  {
+    "text": "Incredible housing units built in the last 3.5 months by Russia in Mariupol, Donetsk People\u2019s Republic (formerly eastern Ukraine). Mariupol otherwise looks like a city which has seen little development since the collapse of the Soviet Union. Kiev abandoned it, then attacked it. https://t.co/ayqLGY0Xa1",
+    "created_at": "11/24/2022 17:28:52",
+    "retweet_count": 797,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.5827781558036804,
+      "LABEL_1": 0.3618355095386505,
+      "LABEL_2": 0.05538631230592728
+    }
+  },
+  {
+    "text": "Claire Nevill,a spokesperson for\n@WFP_Ethiopia, said \u27ae#TigrayFamine is extremely worrying and likely to worsen as the\u00a0UN faces a funding squeeze, partly as a result of the war in Ukraine. \n@WhiteHouse @EUCouncil @UN_Women @VP\n#AllowHumanitarianAidToTigray https://t.co/mCUmpq8Hgu",
+    "created_at": "11/26/2022 16:32:26",
+    "retweet_count": 87,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.8618899583816528,
+      "LABEL_2": 0.08591350167989731,
+      "LABEL_0": 0.05219656229019165
+    }
+  },
+  {
+    "text": "We have given $90 Billion dollars to Ukraine. In the meantime, we have soldiers living under bridges and 22 of them will commit suicide everyday. \n\nThis regime has to go! \n\n#Trump2024",
+    "created_at": "11/26/2022 22:40:49",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.912580132484436,
+      "LABEL_1": 0.08125544339418411,
+      "LABEL_2": 0.0061645228415727615
+    }
+  },
+  {
+    "text": "@mattyglesias I'm part of that crowd but have few followers so Mr. Big Followership can ignore me, but what am I to do? Tweet obsessively about something I have no control over?\nI've consistently bemoaned the black hole of Ukraine funding &amp; the ruinous NATO expansions.\nWhat have you said?",
+    "created_at": "11/26/2022 22:40:49",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.6995324492454529,
+      "LABEL_1": 0.28483110666275024,
+      "LABEL_2": 0.015636460855603218
+    }
+  },
+  {
+    "text": "@JulianRoepcke You must be joking. Poland was bombed by Ukraine, who tried to blame Russia and push WWIII, killing two Poles (first attack on Polish soil after WWII) by a regime that considers Bandera, someone ultimately responsible for the killing of thousands of Poles, as a national hero.",
+    "created_at": "11/26/2022 22:40:49",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5897533297538757,
+      "LABEL_2": 0.24701590836048126,
+      "LABEL_0": 0.16323073208332062
+    }
+  },
+  {
+    "text": "My country #Ukraine\ud83c\uddfa\ud83c\udde6\n It's home, roots, colors, breaths, blood, horizon that belongs to me. If I have to take up a rifle to defend my country, I surely will.  #RussiaIsATerroristState #SlavaUkra\u00efni #UkraineWar #StandWithUkraine #SlavaUkrainii #UkraineWillWin https://t.co/ZVnWZmzpWW",
+    "created_at": "11/26/2022 22:40:48",
+    "retweet_count": 1,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.4796190857887268,
+      "LABEL_0": 0.3217695951461792,
+      "LABEL_2": 0.1986113041639328
+    }
+  },
+  {
+    "text": "This Churchill speech mixed with Ukraine war footage will give you goosebumps. https://t.co/YrAwuKFsvG",
+    "created_at": "11/26/2022 01:22:31",
+    "retweet_count": 1748,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.7588923573493958,
+      "LABEL_1": 0.2214267998933792,
+      "LABEL_0": 0.01968085579574108
+    }
+  },
+  {
+    "text": "@socialiststeve6 @PMbeers Now we're just giving that money to Ukraine.",
+    "created_at": "11/26/2022 22:40:48",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5897533297538757,
+      "LABEL_2": 0.24701590836048126,
+      "LABEL_0": 0.16323073208332062
+    }
+  },
+  {
+    "text": "\ud83d\ude81 The UK will provide the Ukrainian Armed Forces with Sea King helicopters as part of its continued support.\n \nThe @RoyalNavy has delivered Sea King training to 10 crews of the Armed Forces of Ukraine, enhancing their search and rescue capabilities.\n \n\ud83c\uddfa\ud83c\udde6 #StandWithUkraine \ud83c\uddfa\ud83c\udde6 https://t.co/eC5p2kwh60",
+    "created_at": "11/26/2022 14:00:12",
+    "retweet_count": 678,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.6026046276092529,
+      "LABEL_2": 0.3874107301235199,
+      "LABEL_0": 0.009984714910387993
+    }
+  },
+  {
+    "text": "Be brave like UKRAINE \ud83d\udc99\ud83d\udc9b https://t.co/GkmebcqPSC",
+    "created_at": "11/26/2022 09:01:11",
+    "retweet_count": 537,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.7106748223304749,
+      "LABEL_1": 0.27570676803588867,
+      "LABEL_0": 0.01361839659512043
+    }
+  },
+  {
+    "text": "Claire Nevill, a spokesperson for\n@WFP_Ethiopia, said #TigrayFamine is extremely worrying and likely to worsen as the\u00a0UN faces a funding squeeze, partly as a result of the war in Ukraine. \n@WhiteHouse @EUCouncil\n#AllowHumanitarianAidToTigray https://t.co/69DcHBMrQ8",
+    "created_at": "11/26/2022 07:01:47",
+    "retweet_count": 59,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.8621280789375305,
+      "LABEL_2": 0.08529860526323318,
+      "LABEL_0": 0.05257337540388107
+    }
+  },
+  {
+    "text": "@EU_Commission Ukraine- The land of the Money laundry",
+    "created_at": "11/26/2022 22:40:47",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5897533297538757,
+      "LABEL_2": 0.24701590836048126,
+      "LABEL_0": 0.16323073208332062
+    }
+  },
+  {
+    "text": "\u201c\u2026means lessening the price Ukrainians will pay to give all of us this chance for an un-eclipsed future. Arm Ukraine. And this Thanksgiving, be thankful for the amazing, brave Ukrainians who are willing to fight, to do the impossible, for this chance.\u201d\nhttps://t.co/uPEyiyzwQX",
+    "created_at": "11/26/2022 19:57:41",
+    "retweet_count": 39,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.8843559622764587,
+      "LABEL_1": 0.107347771525383,
+      "LABEL_0": 0.00829625129699707
+    }
+  },
+  {
+    "text": "@ZelenskyyUa there used to be a ukraine war feed updated in real time on twitter. elon musk got rid of it as soon as he took over. he is not your friend. people are seeing less of you because of him.",
+    "created_at": "11/26/2022 22:40:47",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5897533297538757,
+      "LABEL_2": 0.24701590836048126,
+      "LABEL_0": 0.16323073208332062
+    }
+  },
+  {
+    "text": "\u26a1\ufe0f\u26a1\ufe0f Ukraine brings home 12 POWs, including civilians.\n\nUkraine and Russia held a prisoner swap on Nov. 26, with Ukraine receiving 9 servicemen (pictured) and 3 civilians.\n\nSource: President Volodymyr Zelensky's chief of staff Andriy Yermak. https://t.co/rk5VdsFN2N",
+    "created_at": "11/26/2022 13:34:04",
+    "retweet_count": 342,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.773287296295166,
+      "LABEL_0": 0.173625186085701,
+      "LABEL_2": 0.053087566047906876
+    }
+  },
+  {
+    "text": "@IuliiaMendel \ud83d\ude3f\ud83d\ude4f\ud83c\uddfa\ud83c\udde6\ud83d\udc9b\ud83d\udd4a\ufe0f\ud83d\udc99\ud83c\uddfa\ud83c\udde6\n\nPlease sign to demand our world leaders do more to stop Putin's illegal genocide against humanity in Ukraine \ud83c\uddfa\ud83c\udde6\n\nhttps://t.co/K39fG9wVJ9",
+    "created_at": "11/26/2022 17:49:56",
+    "retweet_count": 9,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.7271580100059509,
+      "LABEL_1": 0.2530079782009125,
+      "LABEL_2": 0.019833963364362717
+    }
+  },
+  {
+    "text": "#Ukraine: A Russian T-72B3 tank was discovered in slightly bad condition in #Kherson Oblast. https://t.co/Fw6Fe0fd8e",
+    "created_at": "11/26/2022 17:34:44",
+    "retweet_count": 225,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.7517530918121338,
+      "LABEL_1": 0.23730164766311646,
+      "LABEL_2": 0.010945349931716919
+    }
+  },
+  {
+    "text": "Before Holocaust was Holodomor\n\nWorld remembers holocaust when 6 million Jews were murdered but many still do not know of Holodomor when Stalin murdered 4-10 million Ukrainians with a man made famine 1932-33\n\nToday as Russia again brings Genocide to Ukraine we remember Holodomor https://t.co/iU88vUIa3y",
+    "created_at": "11/26/2022 08:34:17",
+    "retweet_count": 1229,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.8349438905715942,
+      "LABEL_1": 0.1572359949350357,
+      "LABEL_2": 0.007820126600563526
+    }
+  },
+  {
+    "text": "@rammstein_fella Before war started in Donbas, one of the last news from the area was Russian media claims that Ukraine had shelled some village in Russia.\n\nBest part of the story: no shelling had happened at all. They just showed a normal, derelict house, like you find endlessly in Russia \ud83d\ude02\ud83d\ude4f",
+    "created_at": "11/26/2022 18:18:40",
+    "retweet_count": 6,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.5809000730514526,
+      "LABEL_1": 0.3409832715988159,
+      "LABEL_0": 0.07811668515205383
+    }
+  },
+  {
+    "text": "@PNWLong @StephenKing Your Ukraine flag tells me everything I need to know about your opinion.",
+    "created_at": "11/26/2022 22:40:45",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5897533297538757,
+      "LABEL_2": 0.24701590836048126,
+      "LABEL_0": 0.16323073208332062
+    }
+  },
+  {
+    "text": "@NarcissusWaters @ksorbs These guys checked the actual crypto records. FAKE. UKR govt bought no crypto. https://t.co/2HgBgVTSFx",
+    "created_at": "11/26/2022 22:40:44",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5897533297538757,
+      "LABEL_2": 0.24701590836048126,
+      "LABEL_0": 0.16323073208332062
+    }
+  },
+  {
+    "text": "Congrats to the fellas that exposed, a, big, scam. Be very careful of who you donate to. Ask other fellas their opinion or if they know them. Each penny stolen, deprive someone in Ukraine that needs it.",
+    "created_at": "11/26/2022 20:16:03",
+    "retweet_count": 57,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.47999149560928345,
+      "LABEL_0": 0.31324923038482666,
+      "LABEL_2": 0.20675921440124512
+    }
+  }
+]

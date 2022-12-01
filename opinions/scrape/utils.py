@@ -26,9 +26,9 @@ def remove_duplicate_tweets(tweets: List[Dict]) -> List[Dict]:
     return clean
 
 
-def write_tweets_to_json(text: str, tweets: List[Dict]) -> None:
+def write_scraped_tweets(text: str, tweets: List[Dict]) -> None:
     text = text.lower()
     text = text.replace(" ", "_")
 
-    with open(f"data/{text}_twitter.json", "w") as f:
+    with open(f"data/scraped/twitter/{text}.json", "w") as f:
         json.dump(tweets, f)

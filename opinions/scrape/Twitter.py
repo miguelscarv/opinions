@@ -44,6 +44,8 @@ class Twitter:
 
             for tweet in res.data:
                 temp = 0
+
+                # if the tweet is a retweet get the parent tweet
                 if tweet.referenced_tweets is not None:
 
                     while True:
