@@ -18,6 +18,8 @@ The tweets are subjective in terms of their sentiment so labeling was not an eas
 I was able to get 57% accuracy (without any fine-tunning). After labelling 40 tweets according to an entropy active learning policy
 accuracy shot up to 66%. This is a 3 class classification problem.
 
+Code used to run this is in the `al_tests` directory and the results mentioned are in the `helper.ipynb` file.
+
 # How to run
 
 ## First Step - Scrape tweets
