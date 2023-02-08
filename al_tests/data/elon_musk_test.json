@@ -1,0 +1,1202 @@
+[
+  {
+    "text": "@SaphAffectionVA @AlexWentzell @AlexWentzell said it already. \n\nElon Musk fully understands mammalian biology. Yet you pay for his check?",
+    "created_at": "2023-02-07 19:14:56",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.504618644714355,
+      "LABEL_1": 0.45587491989135703,
+      "LABEL_2": 0.039506431668996006
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@INCIndia You shut up your big mouth you don\u2019t know nothing. Tesla stock is down from $384 to $101 almost 400%, Elon Musk has fallen from top. No one in US Govt question Tesla.",
+    "created_at": "2023-02-07 19:14:54",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.6361289024353021,
+      "LABEL_1": 0.31375992298126204,
+      "LABEL_2": 0.050111215561628
+    },
+    "true_label": 0
+  },
+  {
+    "text": "@elonmusk Elon Musk Is Chinese Spy !!!\n@DOJCrimDiv\n@DHSgov\n@FBI\n\n#USHistory\nhttps://t.co/nuWGdzWUfq",
+    "created_at": "2023-02-07 19:14:51",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.590228378772735,
+      "LABEL_0": 0.367303818464279,
+      "LABEL_2": 0.042467769235372
+    },
+    "true_label": 0
+  },
+  {
+    "text": "Elon Musk Identifies \u2018Worst Offender\u2019 In U.S. Government Censorship\n\nhttps://t.co/xVjPYynZGc",
+    "created_at": "2023-02-07 19:14:40",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.677226066589355,
+      "LABEL_1": 0.31030026078224104,
+      "LABEL_2": 0.012473685666918002
+    },
+    "true_label": 1
+  },
+  {
+    "text": "No, EVs Won't Use Up the World's Copper. Just Ask Elon Musk. -- https://t.co/oCW0raAIl4",
+    "created_at": "2023-02-07 19:14:36",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.560601115226745,
+      "LABEL_0": 0.28902128338813704,
+      "LABEL_2": 0.15037755668163302
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@cb_doge @elonmusk I hope that everyone will support me. I have been wronged and my Twitter account has been suspended. Elon Musk must know who suspended my account. Twitter Dubai office. My account is specialized in economics and the world of finance only.\n@FahmawiHashim",
+    "created_at": "2023-02-07 19:14:29",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.476430386304855,
+      "LABEL_0": 0.41363811492919905,
+      "LABEL_2": 0.109931491315364
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@elonmusk Dear Elon Musk, Your second Wish is very hard, but it will be done, I hear  YOU and obey YOU - Your Jin = Artur !!!!!!",
+    "created_at": "2023-02-07 19:14:24",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.527062535285949,
+      "LABEL_1": 0.43136072158813404,
+      "LABEL_0": 0.041576717048883
+    },
+    "true_label": 2
+  },
+  {
+    "text": "BOOM: Elon Musk holds a BRUTAL mirror up to UN threatening openly to police the Internet https://t.co/5JstVeJdj4",
+    "created_at": "2023-02-07 19:14:21",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.540384829044342,
+      "LABEL_1": 0.43788701295852606,
+      "LABEL_2": 0.021728182211518003
+    },
+    "true_label": 1
+  },
+  {
+    "text": "Hi I'm Jimmy Saville the world renowned pedophile and Elon Musk is driving the bus!  #fuckmusk",
+    "created_at": "2023-02-07 19:14:16",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.9441093802452081,
+      "LABEL_1": 0.050058789551258004,
+      "LABEL_2": 0.005831852089613
+    },
+    "true_label": 0
+  },
+  {
+    "text": "@elonmusk Okay I'm with you @elonmusk I'm a big fan. I'm writing a book called Global Solution. \nIt's free on Substack. \nThank you \nElon Musk,\nAlso @joerogan \n@CanadianPM Ottawa cries over spilled Milk.\nThanks friends. \nProvide extra tanks.\nhttps://t.co/iNW0clvYTK",
+    "created_at": "2023-02-07 19:14:06",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.828243851661682,
+      "LABEL_1": 0.16034929454326602,
+      "LABEL_0": 0.011406848207116
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@GailAlfarATX @elonmusk @EvaFoxU I too like to ask random people on the streets what they think of Twitter and Elon Musk and they totally agree that Elon is a wonderfull person and Twitter is saving humankind \ud83d\ude4f",
+    "created_at": "2023-02-07 19:14:04",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.9351560473442071,
+      "LABEL_1": 0.061559025198221005,
+      "LABEL_0": 0.003284870414063
+    },
+    "true_label": 2
+  },
+  {
+    "text": "wanted to get home and watch zombieland but they don't have it on anything besides like tubitubtubtv. capitalism is a lie and I am going to melt elon musk in acid.",
+    "created_at": "2023-02-07 19:13:59",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.8827749490737911,
+      "LABEL_1": 0.10428384691476801,
+      "LABEL_2": 0.01294114999473
+    },
+    "true_label": 0
+  },
+  {
+    "text": "EM @elonmusk Twitter restores Daines\u2019 account after Musk weighs in - Yahoo News https://t.co/gyc7McC4lP #elon #elonmusk #twitter",
+    "created_at": "2023-02-07 19:13:43",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.7645580768585201,
+      "LABEL_2": 0.22593213617801602,
+      "LABEL_0": 0.009509830735623
+    },
+    "true_label": 1
+  },
+  {
+    "text": "EM @elonmusk TechScape: Why Twitter ending free access to its APIs should be a \u2018wake-up call\u2019 - The Guardian https://t.co/nEX3dfl3Oq #elon #elonmusk #twitter",
+    "created_at": "2023-02-07 19:13:33",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.6285520195960991,
+      "LABEL_0": 0.313681751489639,
+      "LABEL_2": 0.057766273617744
+    },
+    "true_label": 1
+  },
+  {
+    "text": "Annnnnd the grift continues. \n\nhttps://t.co/GdoTntvFAT",
+    "created_at": "2023-02-07 19:13:28",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.6113838553428651,
+      "LABEL_1": 0.3709716796875,
+      "LABEL_0": 0.017644515261054
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@elonmusk Elon Musk, are you able to buy my nfts?",
+    "created_at": "2023-02-07 19:13:12",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.885380804538726,
+      "LABEL_0": 0.08401494473218901,
+      "LABEL_2": 0.030604258179664
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@Kittycake413 @hasanthehun And you say that while using an app that puts money in the picket of Elon Fucking Musk. But of course everyone always cherry picks what is TO THEM worth cancelling or not consuming. You probably own fast fashion, and a smart phone. Both things hurting more ppl than JK Rowling.",
+    "created_at": "2023-02-07 19:13:09",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.8274432420730591,
+      "LABEL_1": 0.15404605865478502,
+      "LABEL_2": 0.018510727211833
+    },
+    "true_label": 0
+  },
+  {
+    "text": "Dogecoin soars by 17% after an Elon Musk\u00a0tweet https://t.co/voHlPb6tXO",
+    "created_at": "2023-02-07 19:13:09",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.7141035795211791,
+      "LABEL_1": 0.28222781419754,
+      "LABEL_0": 0.0036686055827880003
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@RileyEnbi @klovasos @GamesMightBeArt @TheActMan_YT Oh I though elon musk was using his platform and massive influence to embolden transphobia. Damn that's nice to know. I feel better about being here and providing him with ad revenue. \nThis article is bullshit then.\n\nhttps://t.co/8tJc91aJDV",
+    "created_at": "2023-02-07 19:12:58",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.567273914813995,
+      "LABEL_1": 0.317160308361053,
+      "LABEL_2": 0.115565791726112
+    },
+    "true_label": 1
+  },
+  {
+    "text": "EM @elonmusk Elon Musk Names Obscure Agency as 'Worst Offender' in US Government Censorship - The Epoch Times https://t.co/oyipCtoueU #ElonMusk #Tesla #SpaceX",
+    "created_at": "2023-02-07 19:12:36",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.723301649093627,
+      "LABEL_1": 0.264756202697753,
+      "LABEL_2": 0.011942105367779001
+    },
+    "true_label": 1
+  },
+  {
+    "text": "EM @elonmusk Samsung Galaxy S23 Ultra camera amazes Elon Musk. Here\u2019s why - Economic Times https://t.co/8K562mcKRt #ElonMusk #Tesla #SpaceX",
+    "created_at": "2023-02-07 19:12:34",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.9138099551200861,
+      "LABEL_1": 0.083129875361919,
+      "LABEL_0": 0.0030601820908480004
+    },
+    "true_label": 1
+  },
+  {
+    "text": "EM @elonmusk EU\u2019s top diplomat fires warning shot at Elon Musk over Twitter disinformation - TechCrunch https://t.co/yQZb3AbdJl #ElonMusk #Tesla #SpaceX",
+    "created_at": "2023-02-07 19:12:33",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.662974059581756,
+      "LABEL_0": 0.30390149354934604,
+      "LABEL_2": 0.033124480396509004
+    },
+    "true_label": 0
+  },
+  {
+    "text": "@tedcruz Good God, I don't even follow this nut job and yet twitter forces his tweets on my. Time to mute. like I did, Elon Musk, Kari Lake, Denish D., Fritton dude, and many more nutters",
+    "created_at": "2023-02-07 19:12:33",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.9485900998115541,
+      "LABEL_1": 0.046522136777639,
+      "LABEL_2": 0.004887854680418
+    },
+    "true_label": 0
+  },
+  {
+    "text": "EM @elonmusk Elon Musk Deserves Credit For Tweet Trial Win, Attys Say - Law360 https://t.co/XCuYNWGqZg #ElonMusk #Tesla #SpaceX",
+    "created_at": "2023-02-07 19:12:32",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.6720700860023491,
+      "LABEL_2": 0.29289957880973805,
+      "LABEL_0": 0.035030331462621
+    },
+    "true_label": 2
+  },
+  {
+    "text": "Elon Musk\u2019s &amp;#039;Starman&amp;#039; in a Tesla completes five years in space https://t.co/zzqKW7PwJM via @MetroUK",
+    "created_at": "2023-02-07 19:12:29",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.679211914539337,
+      "LABEL_2": 0.311814397573471,
+      "LABEL_0": 0.008973629213869001
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@Foetusbong @ChrisRGun Then why are you even on twitter. By your metric the mear fact you are  on here you support Elon Musk and are supporting the mass lay offs that happened. How about you hold youself accountable if thats the case.",
+    "created_at": "2023-02-07 19:12:26",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.693564236164093,
+      "LABEL_1": 0.286960989236831,
+      "LABEL_2": 0.019474750384688003
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@jrpurdon @pixelatedboat yeah, i know.\njust seems like self-proclaimed genius elon musk, head of multiple tech companies, does not. or at the very least pretends he doesnt know that to fake outrage to chase some clout among his right wing fans.",
+    "created_at": "2023-02-07 19:12:21",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.625190198421478,
+      "LABEL_1": 0.336372464895248,
+      "LABEL_2": 0.038437347859144
+    },
+    "true_label": 0
+  },
+  {
+    "text": "why elon musk makes everything complex :(",
+    "created_at": "2023-02-07 19:12:16",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.9355698227882381,
+      "LABEL_1": 0.06115785613656,
+      "LABEL_2": 0.0032723222393540004
+    },
+    "true_label": 0
+  },
+  {
+    "text": "@elonmusk Hypocrite in 1\u2026 2\u20263\u2026 \nElon Musk has a lot of prejudices against LGBTQ \ud83c\udff3\ufe0f\u200d\ud83c\udf08 community. He can\u2019t understand SAM Smith was just playing a role, the role that Conservatives brainless people have. And you @elonmusk fell into the game. https://t.co/fYBtGsbMwt",
+    "created_at": "2023-02-07 19:12:15",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.9212101697921751,
+      "LABEL_1": 0.07246338576078401,
+      "LABEL_2": 0.006326483562588
+    },
+    "true_label": 0
+  },
+  {
+    "text": "EM @elonmusk Elon Musk Is Ready to Help Turkey Hit By Deadly Earthquake - TheStreet https://t.co/LMQMqgZDbn #ElonMusk #Tesla #SpaceX",
+    "created_at": "2023-02-07 19:12:14",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.8233337998390191,
+      "LABEL_0": 0.12282720208168,
+      "LABEL_2": 0.053838986903429004
+    },
+    "true_label": 2
+  },
+  {
+    "text": "EM @elonmusk An ex-Twitter employee says the company\u2019s mission to make people\u2019s lives better \u2018went to garbage\u2019 after Elon Musk took over - Fortune https://t.co/kMhRK4Ot3F #ElonMusk #Tesla #SpaceX",
+    "created_at": "2023-02-07 19:12:13",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.49687868356704706,
+      "LABEL_0": 0.37978324294090204,
+      "LABEL_2": 0.12333808094263
+    },
+    "true_label": 0
+  },
+  {
+    "text": "here is a blog about elon musk and a computer program that isn't racist enough for his liking. \n\nhttps://t.co/1SbUNHSmvd https://t.co/qtJcYywb2W",
+    "created_at": "2023-02-07 19:12:11",
+    "retweet_count": 1,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.7694905400276181,
+      "LABEL_1": 0.215780466794967,
+      "LABEL_2": 0.014728977344930002
+    },
+    "true_label": 0
+  },
+  {
+    "text": "EM @elonmusk Elon Musk Sings Johnny Cash's \u201cRing Of Fire,\u201d Drinks Whiskey ... - Whiskey Riff https://t.co/4Qr2UihffR",
+    "created_at": "2023-02-07 19:12:10",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.8930552601814271,
+      "LABEL_2": 0.084568977355957,
+      "LABEL_0": 0.022375741973519003
+    },
+    "true_label": 1
+  },
+  {
+    "text": "EM @elonmusk Elon Musk is Not Guilty! - Finshots https://t.co/jT3cma6sQG",
+    "created_at": "2023-02-07 19:12:09",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.722524762153625,
+      "LABEL_0": 0.144008338451385,
+      "LABEL_2": 0.133466899394989
+    },
+    "true_label": 1
+  },
+  {
+    "text": "EM @elonmusk Elon Musk on FSD Beta v11: 'Hoping to Ship v11.3 by End of Week' - Not a Tesla App https://t.co/6EJPns9Nai",
+    "created_at": "2023-02-07 19:12:08",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.828709959983825,
+      "LABEL_2": 0.11531005799770301,
+      "LABEL_0": 0.055980011820793006
+    },
+    "true_label": 1
+  },
+  {
+    "text": "EM @elonmusk Bill Gates says Elon Musk should spend money for Mars on other things - TESLARATI https://t.co/AfX0L4jZBM",
+    "created_at": "2023-02-07 19:12:07",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.7431512475013731,
+      "LABEL_2": 0.199671611189842,
+      "LABEL_0": 0.057177137583494006
+    },
+    "true_label": 0
+  },
+  {
+    "text": "Elon not perfect but I'm glad they found not guilty here, don't think this tweet thing was malicious or whatever, I'm not saying no one should ever criticize him just best to be fair and open about what the issue is and discuss that instead of trying...\n\nhttps://t.co/CcoVquEFzm",
+    "created_at": "2023-02-07 19:12:06",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5429779291152951,
+      "LABEL_2": 0.322334647178649,
+      "LABEL_0": 0.13468743860721502
+    },
+    "true_label": 1
+  },
+  {
+    "text": "Over half of Twitter's top 100 advertisers have dropped from the platform.\n\nNow, Elon Musk is trying to make up for lost revenue by charging businesses $1000 a month for verification status. #StopToxicTwitter https://t.co/aCozTcy8Uo",
+    "created_at": "2023-02-07 19:12:01",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.752876162528991,
+      "LABEL_1": 0.22225359082221902,
+      "LABEL_2": 0.024870220571756002
+    },
+    "true_label": 0
+  },
+  {
+    "text": "\u201cWhen somebody has a breakthrough innovation, it is rarely one little thing. Very rarely, is it one little thing? It\u2019s usually a whole bunch of things that collectively amount to a huge innovation.\u201d \u2013Elon Musk",
+    "created_at": "2023-02-07 19:11:57",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.7076997756958,
+      "LABEL_1": 0.27023646235466003,
+      "LABEL_0": 0.022063761949539
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@elonmusk You are Elon Musk all you have done for people is a lot. Hold your head high and never loose faith and yourself.",
+    "created_at": "2023-02-07 19:11:54",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.8704647421836851,
+      "LABEL_1": 0.12071219831705,
+      "LABEL_0": 0.00882307626307
+    },
+    "true_label": 2
+  },
+  {
+    "text": "@AdamKinzinger @elonmusk It is frustrating that 2 very dangerous immigrants to the US are Elon Musk and Rupert Murdock.  They want to destroy democracy",
+    "created_at": "2023-02-07 19:11:53",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.9642955064773561,
+      "LABEL_1": 0.033001475036144,
+      "LABEL_2": 0.002702973783016
+    },
+    "true_label": 0
+  },
+  {
+    "text": "\u201cI always have optimism, but I\u2019m realistic. It was not with the expectation of great success that I started Tesla or SpaceX\u2026 It\u2019s just that I thought they were important enough to do anyway.\u201d \u2013Elon Musk",
+    "created_at": "2023-02-07 19:11:52",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.658352315425872,
+      "LABEL_1": 0.315886944532394,
+      "LABEL_0": 0.025760775431990002
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@NPR watch all the right wingers melt down about this while they let elon musk install a brain control chip in their head",
+    "created_at": "2023-02-07 19:11:32",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.8242383003234861,
+      "LABEL_1": 0.16805899143218903,
+      "LABEL_2": 0.0077026896178720005
+    },
+    "true_label": 1
+  },
+  {
+    "text": "Elon Musk.I am supportive of your work. I \ud83d\ude4f for your health and strength.  Hope soon these trials will be in the rear view mirror; that you have trustworthy people in your organizations.  So you can get must needed relief,  from all the stressful times now.",
+    "created_at": "2023-02-07 19:11:31",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.902800381183624,
+      "LABEL_1": 0.090157598257064,
+      "LABEL_0": 0.007042054552584001
+    },
+    "true_label": 2
+  },
+  {
+    "text": "Elon musk hype in da thread https://t.co/eGv2ELWOou",
+    "created_at": "2023-02-07 19:11:26",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.8304224014282221,
+      "LABEL_0": 0.096184305846691,
+      "LABEL_2": 0.07339334487915
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@TheView @PressSec \ud83c\uddfa\ud83c\uddf8 President Trump &amp; Elon Musk, like Dr. MLK Jr. Malcolm X, John &amp; Robert Kennedy are NOT \u201cChatham House Rules\u201d Members of the \u201cCouncil On Foreign Relations\u201d. They are &amp; will be annihilated Politically, Economically &amp; through Media Outlets\u2026 I\u2019ll fight by Their Sides. \ud83d\udd8b\u2692\ufe0f\u2694\ufe0f https://t.co/BEMjeZ9kFw",
+    "created_at": "2023-02-07 19:11:13",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.7694343328475951,
+      "LABEL_1": 0.21415260434150601,
+      "LABEL_2": 0.016413034871220002
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@andrearadri @ConnorLUFC4 Elon musk wondering why people in Leeds are refreshing twitter all night",
+    "created_at": "2023-02-07 19:11:12",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.7638590335845941,
+      "LABEL_0": 0.156345427036285,
+      "LABEL_2": 0.07979551702737801
+    },
+    "true_label": 1
+  },
+  {
+    "text": "elon musk likes dicks",
+    "created_at": "2023-02-07 19:11:06",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.7377935647964471,
+      "LABEL_1": 0.24555000662803603,
+      "LABEL_2": 0.016656389459967003
+    },
+    "true_label": 0
+  },
+  {
+    "text": "Don't be that parent who lets their child idolize some pretty face. Instead of worshipping and looking up to models, steer them towards the real role models like Elon Musk and Steve Jobs. Not some Insta-celeb who's famous for...well, being famous.",
+    "created_at": "2023-02-07 19:11:05",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.43493145704269404,
+      "LABEL_0": 0.37307515740394503,
+      "LABEL_2": 0.19199334084987602
+    },
+    "true_label": 2
+  },
+  {
+    "text": "This is fair. C'mon, nobody needs to see that. Fair play to Elon Musk for that rule and the pending reinstatement for the senator. https://t.co/Ido8JyXPlt",
+    "created_at": "2023-02-07 19:11:01",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.47260805964469904,
+      "LABEL_2": 0.43265777826309204,
+      "LABEL_0": 0.094734072685241
+    },
+    "true_label": 2
+  },
+  {
+    "text": "@MattBinder \"Concerning.\"\n\nElon Musk is the Susan Collins of P. W. Bothas.",
+    "created_at": "2023-02-07 19:10:53",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.873700559139251,
+      "LABEL_0": 0.08974910527467701,
+      "LABEL_2": 0.036550279706716
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@reberrabonbon @sleepysdmnfound @hasanthehun You don't need Twitter to survive. Yet here you are, helping Elon Musk who is arguably far more damaging to social issues than a video game",
+    "created_at": "2023-02-07 19:10:47",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.8325228691101071,
+      "LABEL_1": 0.151580527424812,
+      "LABEL_2": 0.015896581113338002
+    },
+    "true_label": 0
+  },
+  {
+    "text": "big laugh out loud? This proves the point. Elon musk. Made Twitter a better place. For freedom of speech.&amp; and I love it\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d https://t.co/f6CVsVgsQu",
+    "created_at": "2023-02-07 19:10:39",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.9881755113601681,
+      "LABEL_1": 0.009653805755078002,
+      "LABEL_0": 0.002170660998672
+    },
+    "true_label": 2
+  },
+  {
+    "text": "@xrayspeculation @MatthewRozsa @elonmusk @Twitter There are terms of service. I think that if a user puts the security of anyone at risk that they should be suspended. And when these reporters put Elon Musk's security at risk he was right to suspend them. Absolutism? Hardly...",
+    "created_at": "2023-02-07 19:10:37",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.761340975761413,
+      "LABEL_1": 0.22836786508560103,
+      "LABEL_2": 0.010291133075952
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@GuntherEagleman Better watch it oh Elon Musk is censoring the f*** out of people trust me I've been there already three times because I said something that might hurt somebody's f****** feeling",
+    "created_at": "2023-02-07 19:10:35",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.9620501995086671,
+      "LABEL_1": 0.034261122345924,
+      "LABEL_2": 0.0036887167952950003
+    },
+    "true_label": 0
+  },
+  {
+    "text": "@elonmusk @disclosetv @TwitterSupport Unfortunately, yeah, I'm still seeing Elon Musk and other fascists on Twitter. Wish that bug would be fixed!",
+    "created_at": "2023-02-07 19:10:28",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.9007100462913511,
+      "LABEL_1": 0.088193245232105,
+      "LABEL_2": 0.011096717789769001
+    },
+    "true_label": 0
+  },
+  {
+    "text": "@elonmusk Man of  people\nMr Napoleon Elon musk",
+    "created_at": "2023-02-07 19:10:18",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.840450823307037,
+      "LABEL_2": 0.109505951404571,
+      "LABEL_0": 0.050043139606714006
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@DemDan_Sol @nftimm_sol @AlphaPharaohs what a cool tweet, I would like to see more of them, because there is one shit and nothing interesting, thank you for your attention I love the twitter community and Elon musk thank you for buying twitter",
+    "created_at": "2023-02-07 19:10:18",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.7478646636009211,
+      "LABEL_1": 0.147924184799194,
+      "LABEL_0": 0.10421110689640001
+    },
+    "true_label": 2
+  },
+  {
+    "text": "Paying Twitter subscribers made up less than 0.2% of monthly users in the US 2 months after Elon Musk introduced Blue, report says https://t.co/jbI4B3HW6y via @Yahoo",
+    "created_at": "2023-02-07 19:10:12",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.6835550665855401,
+      "LABEL_0": 0.23454986512660903,
+      "LABEL_2": 0.08189505338668801
+    },
+    "true_label": 1
+  },
+  {
+    "text": "Elon musk is a terrible person. Who agree?",
+    "created_at": "2023-02-07 19:09:58",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.969572782516479,
+      "LABEL_1": 0.028057510033249,
+      "LABEL_2": 0.00236970372498
+    },
+    "true_label": 0
+  },
+  {
+    "text": "business : BREAKING: About 58% of the 17.5 million votes cast in Elon Musk's Twitter poll were in favor of the tycoon stepping bac",
+    "created_at": "2023-02-07 19:09:57",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.8129193782806391,
+      "LABEL_2": 0.16790170967578802,
+      "LABEL_0": 0.019178837537765
+    },
+    "true_label": 0
+  },
+  {
+    "text": "@BJP4India @rsprasad You shut up your big mouth you don\u2019t know nothing. Tesla stock is down from $384 to $101 almost 400%, Elon Musk has fallen from top. https://t.co/rdMQud8k7P",
+    "created_at": "2023-02-07 19:09:56",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.7575275897979731,
+      "LABEL_1": 0.21704530715942302,
+      "LABEL_2": 0.025427091866731002
+    },
+    "true_label": 0
+  },
+  {
+    "text": "@DuctorMarcus Why elon musk said #babydoge doo doo doo\ud83d\udc15\ud83c\udf7c I trust him \ud83d\udcaf that why I support babydoge #doinggood #savedog Not just investing in #babydogecoin I give my heart to help saving the dog!!!",
+    "created_at": "2023-02-07 19:09:49",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.9496716260910031,
+      "LABEL_1": 0.047836948186159,
+      "LABEL_0": 0.002491401974111
+    },
+    "true_label": 2
+  },
+  {
+    "text": "@CaptDrimmie @GBNEWS Elon Musk needs to either buy or launch a truly free, impartial radio station!",
+    "created_at": "2023-02-07 19:09:43",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5059933066368101,
+      "LABEL_2": 0.46349951624870306,
+      "LABEL_0": 0.030507195740938003
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@raphousetv2 Calling Elon musk https://t.co/ZpObipZXsI",
+    "created_at": "2023-02-07 19:09:31",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.836894273757934,
+      "LABEL_0": 0.11236812919378202,
+      "LABEL_2": 0.050737585872411006
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@TravisAllen02 i told you said in Feb 3, you are leaving twitter just because Elon musk, but is feb 7?\nWhen will you leave?",
+    "created_at": "2023-02-07 19:09:30",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.7450906038284301,
+      "LABEL_0": 0.213407009840011,
+      "LABEL_2": 0.041502386331558005
+    },
+    "true_label": 1
+  },
+  {
+    "text": "Betting against Elon Musk is a very bad idea",
+    "created_at": "2023-02-07 19:09:20",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.9391064643859861,
+      "LABEL_1": 0.055817753076553005,
+      "LABEL_2": 0.005075867753475001
+    },
+    "true_label": 2
+  },
+  {
+    "text": "Hi I'm Jimmy Saville the world renowned pedophile and Elon Musk is shit #shareIfYouAgree FUCK MUSK",
+    "created_at": "2023-02-07 19:09:17",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.973368108272552,
+      "LABEL_1": 0.023667605593800004,
+      "LABEL_2": 0.002964322920888
+    },
+    "true_label": 0
+  },
+  {
+    "text": "Thoughts on this?\n\nOn one hand we're all on twitter run by mr elon musk himself and arent boycotting it\n\nPlus most of the clothing and luxuries we buy are already funding awful labour practices, though is this ok cause entertainment is more avoidable? https://t.co/ihS8NQkWwH",
+    "created_at": "2023-02-07 19:09:17",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.8304666876792901,
+      "LABEL_1": 0.154569149017333,
+      "LABEL_2": 0.01496410369873
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@WholeMarsBlog Says the Elon Musk fanboy.",
+    "created_at": "2023-02-07 19:09:02",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.52040421962738,
+      "LABEL_0": 0.425600469112396,
+      "LABEL_2": 0.05399531871080301
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@NancyLaporte3 @OversightDems @RepRaskin @GOPoversight I agree with you 100%. Elon Musk is an immigrant. I'm pretty sure he's educated. I've seen lots of very hard working fellows in Texas, who could be here illegally. They are just like anyone else. Trying to get by and do the best they can for themselves.",
+    "created_at": "2023-02-07 19:08:57",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.46249848604202204,
+      "LABEL_1": 0.448311328887939,
+      "LABEL_0": 0.08919015526771501
+    },
+    "true_label": 1
+  },
+  {
+    "text": "Checkout New Youtube video: \n5 Elon Musk Moments: Tesla new \"Snake\" Charger!\n@elonmusk  when can i order one? \ud83d\ude2b\nhttps://t.co/NQpEbYNMfx https://t.co/sGKruFVyFs",
+    "created_at": "2023-02-07 19:08:57",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.498559653759002,
+      "LABEL_2": 0.459724634885787,
+      "LABEL_0": 0.041715681552886005
+    },
+    "true_label": 2
+  },
+  {
+    "text": "Elon Musk solves health problems https://t.co/HxmnOFYxb3 #ElonMusk https://t.co/aEihe49a0p",
+    "created_at": "2023-02-07 19:08:53",
+    "retweet_count": 4,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.548822820186615,
+      "LABEL_2": 0.42253676056861805,
+      "LABEL_0": 0.028640406206250003
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@Gabeitch451 @planetfaz @elonmusk also, who's to say elon musk hasn't already donated lmao what a joker",
+    "created_at": "2023-02-07 19:08:52",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.715705335140228,
+      "LABEL_1": 0.25944575667381203,
+      "LABEL_2": 0.024848999455571
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@Joffan7 @drdwhitehouse Oh ok, you are a devotee of Elon Musk :( Well I was afraid of that...next time you overexpose an image you will understand what is happening.",
+    "created_at": "2023-02-07 19:08:41",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.737306892871856,
+      "LABEL_1": 0.23800183832645402,
+      "LABEL_2": 0.024691350758075003
+    },
+    "true_label": 0
+  },
+  {
+    "text": "Laura\u2019s RICO lawsuit is suing Facebook, Mark Zuckerberg, Twitter, and Jack Dorsey. Mind you, this happened in May 2022. \n\nElon did not purchase Twitter until October 27, 2022. \n\nMusk was not CEO at the time she filed. She never sued him. He\u2019s not in the lawsuit. https://t.co/GQZY1fKeie",
+    "created_at": "2023-02-07 19:08:37",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.509448885917663,
+      "LABEL_0": 0.449128121137619,
+      "LABEL_2": 0.041422992944717005
+    },
+    "true_label": 1
+  },
+  {
+    "text": "Prof. Jonathan Jansen \u2013 On advising young South Africans; Elon Musk\u2019s Twitter; the 2024 Election, and\u00a0more https://t.co/FhiC7LpgvK",
+    "created_at": "2023-02-07 19:08:28",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.8689723610877991,
+      "LABEL_2": 0.106780856847763,
+      "LABEL_0": 0.024246746674180003
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@smritiirani @narendramodi You shut up your big mouth you don\u2019t know nothing. Tesla stock is down from $384 to $101 almost 400%, Elon Musk has fallen from top. https://t.co/mm5tyM6BCw",
+    "created_at": "2023-02-07 19:08:25",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.7575275897979731,
+      "LABEL_1": 0.21704530715942302,
+      "LABEL_2": 0.025427091866731002
+    },
+    "true_label": 0
+  },
+  {
+    "text": "ELON MUSK\u2019S REACTION TO HIS LIFE BEING IN DANGER AFTER OUTING SECRET U.S... https://t.co/Rxq1TBgFKe via @YouTube",
+    "created_at": "2023-02-07 19:08:23",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.616362750530242,
+      "LABEL_0": 0.34484064579010004,
+      "LABEL_2": 0.038796607404947
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@0ccultbot Interesting Tweet Elon Musk made yesterday, just hours before the earthquake in Turkey.\ud83e\udd14 https://t.co/RuftRKCdky",
+    "created_at": "2023-02-07 19:08:23",
+    "retweet_count": 1,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.511412382125854,
+      "LABEL_1": 0.46266463398933405,
+      "LABEL_0": 0.025923023000359
+    },
+    "true_label": 1
+  },
+  {
+    "text": "YOU are FAKE NEWS congressman!\n\nREAL MEN STAND WITH AMERICA not against it!!\n\nElon Musk is LOOKING OUT FOR our country!! https://t.co/gkreSSm4pE",
+    "created_at": "2023-02-07 19:08:20",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.7699595689773561,
+      "LABEL_1": 0.195663332939147,
+      "LABEL_2": 0.034377086907625004
+    },
+    "true_label": 2
+  },
+  {
+    "text": "Elon Musk lost $ 200 Billion of wealth when his flagship company lost $ 1 trillion in market capitalization in the recent crash.\n\nDid any political party stall Senate in the USA demanding a congressional investigation???\n. \n. \n. \n. \n. \n#elonmusk #CongressMuktBharat #Pappu",
+    "created_at": "2023-02-07 19:08:16",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.762184202671051,
+      "LABEL_1": 0.22486482560634602,
+      "LABEL_2": 0.012950897216796
+    },
+    "true_label": 1
+  },
+  {
+    "text": "\u201cMusk said: \u201cThe reason I am personally accruing assets is to fund this. I really have no other purpose than to make life interplanetary\u2026.\u201d\n\nAnd then Elon Musk bought Twitter for $40+ BILLION in 2022 - the same year he once wanted to send humans to Mars.\n\n$TSLA $TSLAQ $ELONQ",
+    "created_at": "2023-02-07 19:07:58",
+    "retweet_count": 1,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.545015394687652,
+      "LABEL_0": 0.340374648571014,
+      "LABEL_2": 0.11460996419191301
+    },
+    "true_label": 0
+  },
+  {
+    "text": "The press versus the president, part one https://t.co/hyM0PPflfR via @cjr I remember right here on twitter all the ignorant liberal fools spewing the Russian lie! I remember conservatives like myself banned for life for telling the truth!! Elon Musk gave us back our 1st amendment",
+    "created_at": "2023-02-07 19:07:51",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.48770722746849005,
+      "LABEL_1": 0.484628319740295,
+      "LABEL_2": 0.027664493769407
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@priyankagandhi @RahulGandhi You shut up your big mouth you don\u2019t know nothing. Tesla stock is down from $384 to $101 almost 400%, Elon Musk has fallen from top. https://t.co/N1UxYODIkR",
+    "created_at": "2023-02-07 19:07:49",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.7575275897979731,
+      "LABEL_1": 0.21704530715942302,
+      "LABEL_2": 0.025427091866731002
+    },
+    "true_label": 0
+  },
+  {
+    "text": "@xnormalxoxo That's Elon Musk for ya.",
+    "created_at": "2023-02-07 19:07:46",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.730550825595855,
+      "LABEL_2": 0.20595861971378301,
+      "LABEL_0": 0.06349058449268301
+    },
+    "true_label": 0
+  },
+  {
+    "text": "EM @elonmusk Elon Musk admits it\u2019s \u201ctough\u201d saving Twitter, and being CEO of SpaceX and Tesla - Nairametrics https://t.co/NqlpIxH8G9 #ElonMusk #Tesla #SpaceX",
+    "created_at": "2023-02-07 19:07:45",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.7097759842872621,
+      "LABEL_1": 0.283050596714019,
+      "LABEL_0": 0.007173403166234001
+    },
+    "true_label": 1
+  },
+  {
+    "text": "After a year out Elon Musk let me have Twitter again. Thanks mate @elonmusk",
+    "created_at": "2023-02-07 19:07:45",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.8755027651786801,
+      "LABEL_1": 0.118984848260879,
+      "LABEL_0": 0.0055124084465200006
+    },
+    "true_label": 1
+  },
+  {
+    "text": "EM @elonmusk Elon Musk says running Twitter, Tesla and SpaceX has been \u2018extremely tough\u2019 - MarketWatch https://t.co/4rq6GPc4r0 #ElonMusk #Tesla #SpaceX",
+    "created_at": "2023-02-07 19:07:43",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.547210931777954,
+      "LABEL_0": 0.351648092269897,
+      "LABEL_2": 0.10114096850156701
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@elonmusk Dear Elon Musk. You definitely have a plan for the earthquake disaster in Turkey. Crypto aid account has been opened. We are waiting for your support. @elonmusk",
+    "created_at": "2023-02-07 19:07:43",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.504288733005523,
+      "LABEL_1": 0.46571198105812006,
+      "LABEL_0": 0.029999235644936003
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@BadertscherAndy @TJMoe28 @elonmusk Like\u2026that was the WHOLE reason Elon Musk bought Twitter. Living under a rock I see?",
+    "created_at": "2023-02-07 19:07:42",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.472185343503952,
+      "LABEL_1": 0.442419826984405,
+      "LABEL_2": 0.08539480715990001
+    },
+    "true_label": 1
+  },
+  {
+    "text": "EM @elonmusk Elon Musk\u2019s SpaceX Shines with Record # of Satellite Launches in 2022 - TipRanks https://t.co/uFUC5X0HjC #ElonMusk #Tesla #SpaceX",
+    "created_at": "2023-02-07 19:07:42",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_2": 0.6415051221847531,
+      "LABEL_1": 0.35597410798072804,
+      "LABEL_0": 0.0025207628495990003
+    },
+    "true_label": 2
+  },
+  {
+    "text": "EM @elonmusk Exotrail raises $58m for satellite propulsion tech that Elon Musk's ... - Sifted https://t.co/5CswO7KSrC #ElonMusk #Tesla #SpaceX",
+    "created_at": "2023-02-07 19:07:41",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.8306641578674311,
+      "LABEL_2": 0.159294635057449,
+      "LABEL_0": 0.010041206143796002
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@MatthewRozsa @elonmusk @Twitter You are not in possession of any fact, just your own emotion. I'm sorry that you never measured up to Elon Musk, on any level, and I'm sorry that you are one of the aggrieved, who can do nothing but be so. You're a poser, with the \"P\", being replaced by an \"L\"!",
+    "created_at": "2023-02-07 19:07:35",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.9187348484992981,
+      "LABEL_1": 0.07274433970451301,
+      "LABEL_2": 0.008520797826349001
+    },
+    "true_label": 2
+  },
+  {
+    "text": "EM @elonmusk SpaceX eyeing March for 1st Starship orbital flight, Elon Musk says - https://t.co/RfXE80bnmH https://t.co/NyUsUOYNDx #ElonMusk #Tesla #SpaceX",
+    "created_at": "2023-02-07 19:07:34",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.900600790977478,
+      "LABEL_2": 0.08899106830358501,
+      "LABEL_0": 0.010408142581582
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@aajtak @sudhirchaudhary You shut up your big mouth you don\u2019t know nothing. Tesla stock is down from $384 to $101 almost 400%, Elon Musk has fallen from top. https://t.co/2DY7CsYifz",
+    "created_at": "2023-02-07 19:07:31",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.7575275897979731,
+      "LABEL_1": 0.21704530715942302,
+      "LABEL_2": 0.025427091866731002
+    },
+    "true_label": 0
+  },
+  {
+    "text": "@KenyaHicks13 @PostMalone At the time my account got permanently suspended back March 22nd last year because I was defending Elon Musk just over the past week or so my account finally got reactivated now I'm waiting to get my blue check mark",
+    "created_at": "2023-02-07 19:07:18",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.5422623753547661,
+      "LABEL_1": 0.43512254953384405,
+      "LABEL_2": 0.022615121677517003
+    },
+    "true_label": 2
+  },
+  {
+    "text": "Elon Musk Identifies 'Worst Offender' In U.S. Government Censorship https://t.co/sadQtZ0a0H #corruption #ElonMusk #news",
+    "created_at": "2023-02-07 19:07:16",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.731399953365325,
+      "LABEL_1": 0.25801551342010504,
+      "LABEL_2": 0.010584543459117001
+    },
+    "true_label": 1
+  },
+  {
+    "text": "@Mr_Electrico @bluegal Somehow \"fierce independence\" &amp; being Elon Musk's spokesperson sound inconsistent.",
+    "created_at": "2023-02-07 19:07:15",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_1": 0.5012663006782531,
+      "LABEL_0": 0.460160464048385,
+      "LABEL_2": 0.038573268800973004
+    },
+    "true_label": 0
+  },
+  {
+    "text": "@WholeMarsBlog It is so horrifically designed, I would not drive one if it were gifted to me, personally, by Elon Musk....I have standards",
+    "created_at": "2023-02-07 19:07:09",
+    "retweet_count": 0,
+    "lang": "en",
+    "prediction": {
+      "LABEL_0": 0.9459114670753471,
+      "LABEL_1": 0.04869062826037401,
+      "LABEL_2": 0.005397925153374001
+    },
+    "true_label": 0
+  }
+]
