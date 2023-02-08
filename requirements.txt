@@ -1,5 +1,6 @@
 numpy==1.23.5
-python-dotenv==0.21.0
-scipy==1.9.3
+python-dotenv==0.21.1
+scipy==1.10.0
+torch==1.13.0
 transformers==4.24.0
 tweepy==4.12.1

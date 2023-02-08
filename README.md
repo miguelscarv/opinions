@@ -9,6 +9,15 @@ As of now it only uses Twitter to scrape data but this could be easily extended 
 (like [Reddit](https://www.reddit.com)) and comments on news sites 
 (like [The New York Times](https://www.nytimes.com/international/)).
 
+# Results
+
+I scrapped 500 tweets about Elon Musk because today (8th of February of 2023) is the last day the Twitter API is going to be free :(((. I manually labelled the 100
+most recent tweets and used them as a test set and the remaining 400 as a training set.
+
+The tweets are subjective in terms of their sentiment so labeling was not an easy task and using the [roBERTa model](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest)
+I was able to get 57% accuracy (without any fine-tunning). After labelling 40 tweets according to an entropy active learning policy
+accuracy shot up to 66%. This is a 3 class classification problem.
+
 # How to run
 
 ## First Step - Scrape tweets
@@ -31,3 +40,12 @@ file like the ones in `data/scraped/twitter`. The `TOPIC` argument is not requir
 towards certain topics by replacing the topic (e.g. Elon Musk) in tweets with the token `[TOPIC]`. 
 The flag `--weight` is a boolean argument that is not required but if given it makes the final sentiment score weighted by the
 number of retweets each tweet had.
+
+## Third Step - Label data with Active Learning
+
+1. Run `python3 al_sentiment_analysis.py --path PATH [--topic TOPIC] [--learning_rate LEARNING_RATE] [--batch BATCH_SIZE] [--weight]`
+
+This file uses similar arguments to the ones in the Second Step, but here the `PATH` argument should point to a file with 
+some predictions already made, like the ones in `data/predicted/twitter`. The `LEARNING_RATE` argument specifies a learning rate
+to fine tune the model and teh default one is `2e-5`. The `BATCH_SIZE` argument specifies the number of documents needed to 
+label before a training step.

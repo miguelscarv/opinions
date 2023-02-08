@@ -1,7 +1,7 @@
 import argparse
 
 
-def parse_twitter_scraping_args():
+def parse_twitter_scraping_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Get N tweets about a topic")
 
     parser.add_argument("--topic", "-t", type=str, required=True, help="Topic to search on Twitter")
@@ -12,7 +12,7 @@ def parse_twitter_scraping_args():
     return parser.parse_args()
 
 
-def parse_twitter_sentiment_args():
+def parse_twitter_sentiment_args() -> argparse.Namespace:
 
     parser = argparse.ArgumentParser(description="Get sentiment scores for a topic")
 
@@ -21,5 +21,21 @@ def parse_twitter_sentiment_args():
                                                                         reduce the model's bias""")
     parser.add_argument("--weight", "-w", required=False, action="store_true", help="""Should we weight the 
                                                                                 sentiment score by retweet count?""")
+
+    return parser.parse_args()
+
+
+def parse_twitter_active_learning_sentiment_args() -> argparse.Namespace:
+
+    parser = argparse.ArgumentParser(description="Active Learning tool to learn sentiment scores for a topic")
+
+    parser.add_argument("--path", "-p", type=str, required=True, help="Path to tweets file WITH predictions")
+    parser.add_argument("--topic", "-t", type=str, required=False, help="""Topic to replace on tweets. This may help
+                                                                        reduce the model's bias""")
+    parser.add_argument("--learning", "-l", type=float, required=False, default=2e-5, help="Learning rate")
+    parser.add_argument("--batch", "-b", type=int, required=False, default=8, help="""Number of tweets to manually 
+                                                                                   label per batch""")
+    parser.add_argument("--weight", "-w", required=False, action="store_true", help="""Should we weight the 
+                                                                                    sentiment score by retweet count?""")
 
     return parser.parse_args()
