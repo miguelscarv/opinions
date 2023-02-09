@@ -11,14 +11,23 @@ As of now it only uses Twitter to scrape data but this could be easily extended 
 
 # Results
 
+## Active Learning 
+
 I scrapped 500 tweets about Elon Musk because today (8th of February of 2023) is the last day the Twitter API is going to be free :(((. I manually labelled the 100
 most recent tweets and used them as a test set and the remaining 400 as a training set.
 
 The tweets are subjective in terms of their sentiment so labeling was not an easy task and using the [roBERTa model](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest)
 I was able to get 57% accuracy (without any fine-tunning). After labelling 40 tweets according to an entropy active learning policy
-accuracy shot up to 66%. This is a 3 class classification problem.
+accuracy shot up to 66%. This is a 3 class classification problem so a ~16% improvement in accuracy for labeling 40 data points seems promising.
 
 Code used to run this is in the `al_tests` directory and the results mentioned are in the `helper.ipynb` file.
+
+## Topic Modeling
+
+Topic modeling was done using BERTopic via running the file `topic_modeling.py` and specifying a `PATH` like explained in the
+forth step. Since I didn't scrape a lot of tweets BERTopic showed some difficulty in finding the underlying topics. It could also be
+due to the fact that it was looking for topics at such a granular level that it couldn't find good enough or different enough topics.
+More is explained in Step Four.
 
 # How to run
 
@@ -49,5 +58,14 @@ number of retweets each tweet had.
 
 This file uses similar arguments to the ones in the Second Step, but here the `PATH` argument should point to a file with 
 some predictions already made, like the ones in `data/predicted/twitter`. The `LEARNING_RATE` argument specifies a learning rate
-to fine tune the model and teh default one is `2e-5`. The `BATCH_SIZE` argument specifies the number of documents needed to 
+to fine tune the model and the default one is `2e-5`. The `BATCH_SIZE` argument specifies the number of documents needed to 
 label before a training step.
+
+## Forth and Final Step - Topic Modeling
+
+1. Run `python3 topic_modeling.py --path PATH`
+
+This script uses the predictions made in previous steps (or true labels if available) to separate tweets into the number of 
+semantic classes provided. It then does topic modeling using BERTopic in an attempt to better separate the
+tweets into reasons for or against an entity. Note that it will work better with more tweets. Here the `PATH` argument is the path to a file with predictions,
+like the ones in `data/predicted/twitter`

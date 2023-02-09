@@ -7,12 +7,13 @@ path = args.path
 weight = args.weight
 
 PATH = "cardiffnlp/twitter-roberta-base-sentiment"
-model = TwitterModel(PATH, args.learning)
+model = TwitterModel(PATH, 0)
 
 filename = get_filename(path)
 
-tweets = get_scraped_tweets(path)
+tweets = get_scraped_tweets(path, allow_references=False, allow_media=False)
 res = model.predict_multiple(tweets, topic=topic)
+print(f"There were {len(tweets)} tweets")
 
 if weight:
     print("Weighted sentiment score:")

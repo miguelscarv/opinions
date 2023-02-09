@@ -11,9 +11,9 @@ class TwitterModel:
 
     def __init__(self, path: str, lr: float, num_labels: int = 3) -> None:
 
-        self.model = AutoModelForSequenceClassification.from_pretrained(path, num_labels = num_labels)
+        self.model = AutoModelForSequenceClassification.from_pretrained(path, num_labels=num_labels)
         self.tokenizer = AutoTokenizer.from_pretrained(path)
-        self.config = AutoConfig.from_pretrained(path, num_labels = num_labels)
+        self.config = AutoConfig.from_pretrained(path, num_labels=num_labels)
 
         self.optim = AdamW(self.model.parameters(), lr=lr)
 
@@ -26,7 +26,6 @@ class TwitterModel:
         output = self.model(**tokens)
         logits = output[0][0].detach().numpy()
         probs = softmax(logits)
-
 
         ranking = np.argsort(probs)
         ranking = ranking[::-1]

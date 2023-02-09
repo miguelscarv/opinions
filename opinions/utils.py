@@ -32,10 +32,19 @@ def parse_twitter_active_learning_sentiment_args() -> argparse.Namespace:
     parser.add_argument("--path", "-p", type=str, required=True, help="Path to tweets file WITH predictions")
     parser.add_argument("--topic", "-t", type=str, required=False, help="""Topic to replace on tweets. This may help
                                                                         reduce the model's bias""")
-    parser.add_argument("--learning", "-l", type=float, required=False, default=2e-5, help="Learning rate")
+    parser.add_argument("--learning", "-l", type=float, required=False, default=1e-5, help="Learning rate")
     parser.add_argument("--batch", "-b", type=int, required=False, default=8, help="""Number of tweets to manually 
                                                                                    label per batch""")
     parser.add_argument("--weight", "-w", required=False, action="store_true", help="""Should we weight the 
                                                                                     sentiment score by retweet count?""")
+
+    return parser.parse_args()
+
+
+def parse_topic_modeling_args() -> argparse.Namespace:
+
+    parser = argparse.ArgumentParser(description="Topic modeling tool")
+
+    parser.add_argument("--path", "-p", type=str, required=True, help="Path to tweets file WITH predictions")
 
     return parser.parse_args()
