@@ -20,7 +20,7 @@ def write_tweets(path: str, tweets: list) -> None:
 
 
 args = parse_twitter_active_learning_sentiment_args()
-model = TwitterModel("cardiffnlp/twitter-roberta-base-sentiment")
+model = TwitterModel("cardiffnlp/twitter-roberta-base-sentiment", args.learning)
 
 train_tweets = get_tweets(args.path)
 test_tweets = get_tweets(TEST_PATH)

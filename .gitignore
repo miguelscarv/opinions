@@ -1,3 +1,5 @@
 .idea/
 __pycache__/
 al_tests/.ipynb_checkpoints/
+al_tests/data/SEN_en_AMT_nooutlier.csv
+al_tests/sen_tests.ipynb

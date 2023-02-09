@@ -9,11 +9,13 @@ from torch.optim import AdamW
 
 class TwitterModel:
 
-    def __init__(self, path: str) -> None:
+    def __init__(self, path: str, lr: float, num_labels: int = 3) -> None:
 
-        self.model = AutoModelForSequenceClassification.from_pretrained(path)
+        self.model = AutoModelForSequenceClassification.from_pretrained(path, num_labels = num_labels)
         self.tokenizer = AutoTokenizer.from_pretrained(path)
-        self.config = AutoConfig.from_pretrained(path)
+        self.config = AutoConfig.from_pretrained(path, num_labels = num_labels)
+
+        self.optim = AdamW(self.model.parameters(), lr=lr)
 
     def predict_single(self, text: str, topic: str = None) -> Dict:
 
@@ -24,6 +26,7 @@ class TwitterModel:
         output = self.model(**tokens)
         logits = output[0][0].detach().numpy()
         probs = softmax(logits)
+
 
         ranking = np.argsort(probs)
         ranking = ranking[::-1]
@@ -64,7 +67,7 @@ class TwitterModel:
 
         return res
 
-    def training_step(self, tweets: List[str], labels: List[int], learning_rate: float) -> None:
+    def training_step(self, tweets: List[str], labels: List[int]) -> None:
 
         labels = [[i] for i in labels]
         labels = torch.LongTensor(labels)
@@ -72,13 +75,11 @@ class TwitterModel:
         batch = self.tokenizer(tweets, return_tensors="pt", padding=True, truncation=True, max_length=512)
         batch["labels"] = labels
 
-        optim = AdamW(self.model.parameters(), lr=learning_rate)
-
         self.model.train()
         outputs = self.model(**batch)
 
         loss = outputs.loss
         loss.backward()
 
-        optim.step()
-        optim.zero_grad()
+        self.optim.step()
+        self.optim.zero_grad()

@@ -1,13 +1,13 @@
 from opinions.learn import TwitterModel, get_scraped_tweets, compute_total_sentiment, get_filename, write_predicted_tweets
 from opinions import parse_twitter_sentiment_args
 
-PATH = "cardiffnlp/twitter-roberta-base-sentiment"
-model = TwitterModel(PATH)
-
 args = parse_twitter_sentiment_args()
 topic = args.topic
 path = args.path
 weight = args.weight
+
+PATH = "cardiffnlp/twitter-roberta-base-sentiment"
+model = TwitterModel(PATH, args.learning)
 
 filename = get_filename(path)
 
