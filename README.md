@@ -17,8 +17,8 @@ I scrapped 500 tweets about Elon Musk because today (8th of February of 2023) is
 most recent tweets and used them as a test set and the remaining 400 as a training set.
 
 The tweets are subjective in terms of their sentiment so labeling was not an easy task and using the [roBERTa model](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest)
-I was able to get 57% accuracy (without any fine-tunning). After labelling 40 tweets according to an entropy active learning policy
-accuracy shot up to 66%. This is a 3 class classification problem so a ~16% improvement in accuracy for labeling 40 data points seems promising.
+I was able to get an F1 score of 57% (without any fine-tunning). After labelling 40 tweets according to an entropy active learning policy
+the F1 score shot up to 66%. This is a 3 class classification problem so a ~16% improvement in F1 for labeling 40 data points seems promising.
 
 Code used to run this is in the `al_tests` directory and the results mentioned are in the `helper.ipynb` file.
 
